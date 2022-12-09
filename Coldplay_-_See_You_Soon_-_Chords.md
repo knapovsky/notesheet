@@ -104,3 +104,4 @@ I know, don't lose yout trust
 A5         E          Badd11
 I know you lost your trust
 ```
+![Chords](img/coldplay-see-you-soon-chords.png)
