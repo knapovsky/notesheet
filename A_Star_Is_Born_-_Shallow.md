@@ -3,14 +3,10 @@ title: A Star is Born - Shallow
 description: Shallow description
 published: 1
 date: 2022-12-09T11:07:30.497Z
-tags:
-  - notesheet
-  - ost
-  - soundtrack
-  - duet
+tags:Notesheet,Ost,Soundtrack,Duet
 editor: markdown
 dateCreated: 2022-12-09T11:07:30.497Z
-slug: home
+slug: shallow
 ---
 
 ```
