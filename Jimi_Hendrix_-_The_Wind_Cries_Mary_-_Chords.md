@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: jimi_hendrix_-_the_wind_cries_mary_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Jimi Hendrix - The Wind Cries Mary
 ---
 

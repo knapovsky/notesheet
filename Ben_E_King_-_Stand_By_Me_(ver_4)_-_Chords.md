@@ -5,9 +5,7 @@ description: Notesheet
 editor: markdown
 published: true
 slug: ben_e_king_-_stand_by_me_(ver_4)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Ben E King - Stand By Me (ver 4)
 ---
 

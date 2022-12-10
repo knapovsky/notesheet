@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_beatles_-_yesterday_(ver_3)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: The Beatles - Yesterday (ver 3)
 ---
 

@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: led_zeppelin_-_babe_im_gonna_leave_you_tab_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Led Zeppelin - Babe Im Gonna Leave You Tab
 ---
 

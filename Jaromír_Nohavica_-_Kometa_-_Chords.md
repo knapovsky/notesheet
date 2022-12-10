@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: jaromír_nohavica_-_kometa_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Jaromír Nohavica - Kometa
 ---
 

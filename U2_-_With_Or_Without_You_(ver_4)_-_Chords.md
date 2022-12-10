@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: u2_-_with_or_without_you_(ver_4)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: U2 - With Or Without You (ver 4)
 ---
 

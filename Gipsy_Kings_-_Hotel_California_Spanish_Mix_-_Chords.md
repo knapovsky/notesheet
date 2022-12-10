@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: gipsy_kings_-_hotel_california_spanish_mix_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Gipsy Kings - Hotel California Spanish Mix
 ---
 

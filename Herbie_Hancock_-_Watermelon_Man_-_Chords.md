@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: herbie_hancock_-_watermelon_man_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Herbie Hancock - Watermelon Man
 ---
 

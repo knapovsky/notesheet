@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: pink_floyd_-_wish_you_were_here_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Pink Floyd - Wish You Were Here
 ---
 

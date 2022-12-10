@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: coldplay_-_help_is_round_the_corner_(ver_4)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Coldplay - Help Is Round The Corner (ver 4)
 ---
 

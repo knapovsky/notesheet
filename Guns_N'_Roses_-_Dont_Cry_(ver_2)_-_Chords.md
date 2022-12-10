@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: guns_n'_roses_-_dont_cry_(ver_2)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Guns N' Roses - Dont Cry (ver 2)
 ---
 

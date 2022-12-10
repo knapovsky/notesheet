@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_queen_-_fat_bottomed_girls_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: The Queen - Fat Bottomed Girls
 ---
 

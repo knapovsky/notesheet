@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_beatles_-_drive_my_car_(ver_3)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: The Beatles - Drive My Car (ver 3)
 ---
 

@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: red_hot_chili_peppers_-_under_the_bridge_(ver_3)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Red Hot Chili Peppers - Under The Bridge (ver 3)
 ---
 

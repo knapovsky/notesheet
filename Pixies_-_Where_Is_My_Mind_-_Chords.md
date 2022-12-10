@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: pixies_-_where_is_my_mind_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Pixies - Where Is My Mind
 ---
 

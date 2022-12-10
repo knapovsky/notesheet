@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_beatles_-_magical_mystery_tour_(ver_2)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: The Beatles - Magical Mystery Tour (ver 2)
 ---
 

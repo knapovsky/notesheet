@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: sam_sparro_-_black_and_gold_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Sam Sparro - Black And Gold
 ---
 

@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: bob_dylan_-_blowin_in_the_wind_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Bob Dylan - Blowin In The Wind
 ---
 

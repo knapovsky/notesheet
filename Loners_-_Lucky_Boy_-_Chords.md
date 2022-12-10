@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: loners_-_lucky_boy_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Loners - Lucky Boy
 ---
 

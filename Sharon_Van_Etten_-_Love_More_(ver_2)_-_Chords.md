@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: sharon_van_etten_-_love_more_(ver_2)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Sharon Van Etten - Love More (ver 2)
 ---
 

@@ -5,9 +5,7 @@ description: Notesheet
 editor: markdown
 published: true
 slug: norah_jones_-_thinking_about_you_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Norah Jones - Thinking About You
 ---
 

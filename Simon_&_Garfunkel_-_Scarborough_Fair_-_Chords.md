@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: simon_&_garfunkel_-_scarborough_fair_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Simon & Garfunkel - Scarborough Fair
 ---
 

@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: jazzanova_-_little_bird_(ft._jose_james)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Jazzanova - Little Bird (ft. Jose James)
 ---
 

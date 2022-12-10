@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: p!nk_-_dear_mr_president_(ver_4)_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: P!nk - Dear Mr President (ver 4)
 ---
 

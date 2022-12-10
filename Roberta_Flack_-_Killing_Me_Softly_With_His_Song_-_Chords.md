@@ -4,9 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: roberta_flack_-_killing_me_softly_with_his_song_-_chords
-tags:
-- Notesheet
-- Chords
+tags: Notesheet,Chords
 title: Roberta Flack - Killing Me Softly With His Song
 ---
 
