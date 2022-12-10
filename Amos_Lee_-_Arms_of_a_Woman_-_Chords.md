@@ -1,5 +1,5 @@
 ---
-title: Amos_Lee_-_Arms_of_a_Woman_-_Chords
+title: Amos Lee - Arms of a Woman
 description:
 published: 1
 date: 2022-12-10T01:16:15.855Z
@@ -7,16 +7,6 @@ tags: Notesheet, Chords
 editor: markdown
 dateCreated: 2022-12-09T11:02:38.688Z
 ---
-
----
-
-date: 2022-12-10 03:18:48.631729
-dateCreated: 2022-12-10 03:18:48.631729
-description: Notesheet
-editor: markdown
-slug: amos*lee*-_arms_of_a_woman_-\_chords
-tags: Notesheet, Chords
-title: Amos Lee - Arms of a Woman
 
 ```
 [Intro]

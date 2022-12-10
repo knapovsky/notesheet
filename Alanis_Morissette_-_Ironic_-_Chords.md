@@ -8,8 +8,6 @@ tags: Notesheet, Chords
 title: Alanis Morissette - Ironic
 ---
 
-# Alanis Morisette - Ironic
-
 ```
 Capo 4th fret
 
