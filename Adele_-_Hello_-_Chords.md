@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: adele_-_hello_-_chords
+tags:
+- Notesheet
+- Chords
+title: Adele - Hello
+---
+
 ```
 Adele - Hello
 From the album: (25) (2015)
@@ -25,7 +37,7 @@ Em7 G  D4 Cadd9
 
 
 [Verse]
-    
+
     Em7 G      D4 Cadd9
 Hello,   it's me
        Em7         G                D4
@@ -60,16 +72,16 @@ And a million miles
  Em7         Cadd9    G  D4
 Hello from the other side
    Em7               Cadd9   G   D4
-I must've called a thousand times 
+I must've called a thousand times
          Em7     Cadd9            G              D4
 To tell you I'm sorry, for everything that I've done
-            Em7      Cadd9 G          D4       
+            Em7      Cadd9 G          D4
 But when I call you never seem to be home
 
  Em7         Cadd9 G  D4
 Hello from the outside
     Em7              Cadd9     G  D4
-At least I can say that I've tried 
+At least I can say that I've tried
          Em7     Cadd9       G            D4
 To tell you I'm sorry, for breaking your heart
                  Em7      Cadd9          G         D4      Em7 G D4 Cadd9
@@ -99,7 +111,7 @@ It's no secret that the both of us are running out of time
  Em7         Cadd9    G  D4
 Hello from the other side
    Em7               Cadd9   G   D4
-I must've called a thousand times 
+I must've called a thousand times
          Em7     Cadd9            G              D4
 To tell you I'm sorry, for everything that I've done
             Em7      Cadd9 G          D4
@@ -108,7 +120,7 @@ But when I call you never seem to be home
  Em7         Cadd9 G  D4
 Hello from the outside
     Em7              Cadd9     G  D4
-At least I can say that I've tried 
+At least I can say that I've tried
          Em7     Cadd9       G            D4
 To tell you I'm sorry, for breaking your heart
                  Em7      Cadd9          G         D4      Em7 Cadd9
@@ -132,16 +144,16 @@ Anymore
  Em7         Cadd9    G  D4
 Hello from the other side
    Em7               Cadd9   G   D4
-I must've called a thousand times 
+I must've called a thousand times
          Em7     Cadd9            G              D4
 To tell you I'm sorry, for everything that I've done
-            Em7      Cadd9 G          D4       
+            Em7      Cadd9 G          D4
 But when I call you never seem to be home
 
  Em7         Cadd9 G  D4
 Hello from the outside
     Em7              Cadd9     G  D4
-At least I can say that I've tried 
+At least I can say that I've tried
          Em7     Cadd9       G            D4
 To tell you I'm sorry, for breaking your heart
                  Em7      Cadd9          G         D4      Em7 G D4 Cadd9 Em7

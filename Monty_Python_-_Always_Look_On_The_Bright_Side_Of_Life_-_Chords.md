@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: monty_python_-_always_look_on_the_bright_side_of_life_-_chords
+tags:
+- Notesheet
+- Chords
+title: Monty Python - Always Look On The Bright Side Of Life
+---
+
 ```
 #----------------------------------PLEASE NOTE---------------------------------#
 #This file is the author's own work and represents their interpretation of the #

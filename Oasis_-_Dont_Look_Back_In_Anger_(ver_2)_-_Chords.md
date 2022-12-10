@@ -1,5 +1,17 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: oasis_-_dont_look_back_in_anger_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Oasis - Dont Look Back In Anger (ver 2)
+---
+
 ```
-[Intro] 
+[Intro]
 
 C Fmaj7
 
@@ -10,7 +22,7 @@ C               G               Am
 Slip inside the eye of your mind
           E7             F     G
 Don't you know you might find
-                    C        Am  G 
+                    C        Am  G
 A better place to play
 
 
@@ -20,7 +32,7 @@ C             G               Am
 You said that you'd never been
             E7                 F    G
 But all the things that you've seen
-            C         Am  G  
+            C         Am  G
 Slowly fade away
 
 
@@ -34,7 +46,7 @@ F                Fm              C
 Step outside the summertime's in bloom
 G
 Stand up beside the fireplace
-E7 
+E7
 Take that look from off your face
 Am                 G                F             G
 Cos you ain't ever going to burn my heart ouuuuuuuuuut
@@ -44,7 +56,7 @@ Cos you ain't ever going to burn my heart ouuuuuuuuuut
 
 C   G        Am        E7             F
 So Sally can wait, she knows it's too late
-         G          C    Am  G 
+         G          C    Am  G
 As we're walking on by
 
 C        G      Am        E7         F
@@ -131,13 +143,13 @@ C   G        Am        E7             F
 So Sally can wait, she knows it's too late
          G          C     Am G
 As we're walking on by
-C        G      Am        
-Her soul slides away, 
-    F 
+C        G      Am
+Her soul slides away,
+    F
 But don't look back in anger
 Fm
 Dont look back in anger
-            C        C    G     Am   E7    F    G  
+            C        C    G     Am   E7    F    G
 I heard you say
              C
 At least not today

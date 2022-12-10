@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: radiohead_-_creep_-_chords
+tags:
+- Notesheet
+- Chords
+title: Radiohead - Creep
+---
+
 ```
 [Intro]
 G B C Cm
@@ -39,7 +51,7 @@ What the hell am I doing here? I don't belong here
 [Bridge] (play loud)
             G                  B
 Oooh, oooh, she's running out again...
-C                      Cm                
+C                      Cm
 She's running out, she run, run, run...
 G     B
 Ruuuuuuuun...

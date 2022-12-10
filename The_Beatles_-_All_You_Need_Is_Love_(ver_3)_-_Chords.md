@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_all_you_need_is_love_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - All You Need Is Love (ver 3)
+---
+
 ```
 ALL YOU NEED IS LOVE - 1967
  The Beatles  (Lennon/McCartney)
@@ -11,40 +23,40 @@ ___________________________________________________________________
 
 G      D      Em
 Love  Love  Love
-G       D      Em   
-Love  Love  Love  
-             
+G       D      Em
+Love  Love  Love
+
                   1 + 2 + 3 + 4 + 1 + 2 + 3 +
-Am    G      D    D       D7      Bm      D         
+Am    G      D    D       D7      Bm      D
 Love  Love  Love
 
 
 [Verse]
 
-G                        D                Em 
+G                        D                Em
  There's nothing you can do that can't be done
-G                 D                  Em   
+G                 D                  Em
  Nothing you can sing that can't be sung
-Am                G               D                  
+Am                G               D
  Nothing you can say but you can learn to play the game,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      Bm      D    
+      D       D7      Bm      D
  It's easy
 
 G                        D                  Em
  There's nothing you can make that can't be made
 G                D                  Em
  No one you can save that can't be saved.
-Am               G               D                                   
+Am               G               D
  Nothing you can do but you can learn how to be you in time,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      Bm      D    
+      D       D7      Bm      D
  It's easy
 
 
 [Chorus]
 
-G        A        D     D7     
+G        A        D     D7
 All you need is love
 G        A        D     D7
 All you need is love
@@ -52,10 +64,10 @@ G        B7      Em   G    C       D       G
 All you need is love love, Love is all you need.
 
 
-[Instrumental break] 
+[Instrumental break]
 (same chords as verse)
 
-G D Em 
+G D Em
 G D Em
 Am G D
 D D7 G D
@@ -63,40 +75,40 @@ D D7 G D
 
 [Chorus]
 
-G        A        D     D7     
+G        A        D     D7
 All you need is love
 G        A        D     D7
 All you need is love
 G        B7      Em   G    C       D       G
 All you need is love love, Love is all you need.
 
-G                        D               Em                   
+G                        D               Em
  There's nothing you can know that isn't known.
-G                D              Em   
+G                D              Em
  Nothing you can see that isn't shown.
 Am               G              D
  Nowhere you can be that isn't where you're meant to be,
       1 + 2 + 3 + 4 + 1 + 2 + 3 +
-      D       D7      Bm      D    
+      D       D7      Bm      D
  It's easy
 
 
-G        A        D     D7     
-All you need is love, 
+G        A        D     D7
+All you need is love,
 G        A        D     D7
 All you need is love,
 G        B7      Em   G    C       D       G
 All you need is love love, Love is all you need.
 
-G                        D               Em                   
+G                        D               Em
 All you need is love (all together now)
-G                D              Em   
+G                D              Em
 All you need is love (everybody)
 G        B7      Em   G    C       D       G
 All you need is love love, Love is all you need.
 
 G
-Love is all you need 
+Love is all you need
 G
 Love is all you need (repeat till end)
 ```

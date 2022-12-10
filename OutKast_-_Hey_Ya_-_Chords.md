@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: outkast_-_hey_ya_-_chords
+tags:
+- Notesheet
+- Chords
+title: OutKast - Hey Ya
+---
+
 ```
 Outkast - Hey Ya
 Tabbed by: Hugo Rios

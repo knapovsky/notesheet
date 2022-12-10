@@ -1,6 +1,18 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: eric_clapton_-_tears_in_heaven_-_chords
+tags:
+- Notesheet
+- Chords
+title: Eric Clapton - Tears In Heaven
+---
+
 ```
 [Intro]
-A   E/G#   F#m   D   E7sus4 E7  A   
+A   E/G#   F#m   D   E7sus4 E7  A
 
 [Chorus]
  A         E       F#m
@@ -20,57 +32,57 @@ and carry on,
          Bm             E7
 Cause I know I don't belong,
            A
-Here in heaven. 
+Here in heaven.
 
 [Link]
 A   E/G#  F#m  D  E7sus E7  A
 
 [Chorus]
 A          E       F#m
-Would you hold my hand 
+Would you hold my hand
 D      A            E
-If I saw you in heaven 
+If I saw you in heaven
 A          E      F#m
-Would you help me stand 
+Would you help me stand
 D       A          E
-If I saw you in heaven 
+If I saw you in heaven
 
 [Verse]
-F#m           C#  
+F#m           C#
 I'll find my way,
 Em                   F#
 through night and day
         Bm                   E7
-Cause I know I just can't stay 
+Cause I know I just can't stay
            A
-Here in heaven 
+Here in heaven
 
 [Link]
-A   E/G#   F#m   D   E7sus4 E7  A   
+A   E/G#   F#m   D   E7sus4 E7  A
 
 [Bridge]
 C        G/B         Am
-Time can bring you down 
+Time can bring you down
           D         G   D  Em D G
-Time can bend your knee 
+Time can bend your knee
 C        G          Am
-Time can break your heart 
+Time can break your heart
          D       G
-Have you begging please 
+Have you begging please
           E
-Begging please 
+Begging please
 
 [Instrumental]
 A   E/G#   F#m   D   E7sus4 E7  A  x2
 
 [Verse]
 F#m        C#
-Beyond the door 
+Beyond the door
 Em                F#
-There's peace I'm sure. 
+There's peace I'm sure.
       Bm               E7
-And I know there'll be no more... 
-         A        
+And I know there'll be no more...
+         A
 Tears in heaven
 
 [Link]
@@ -97,7 +109,7 @@ Cause I know I don't belong,
 Here in heaven.
 
 [Link]
-A  E/G#  F#m     F#m7 
+A  E/G#  F#m     F#m7
 
         Bm             E7
 Cause I know I don't belong,

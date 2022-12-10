@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: johnny_cash_-_hurt_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Johnny Cash - Hurt (ver 3)
+---
+
 ```
 [Verse]
 Am  C      D      Am      C      D       Am
@@ -42,7 +54,7 @@ I will let you down, I will make you hurt
 [Outro]
 G
 
-   Am                 F         G            
+   Am                 F         G
 If I could start again, a million miles away
 Am                   F       G        Am
 I would keep myself, I would find a way.

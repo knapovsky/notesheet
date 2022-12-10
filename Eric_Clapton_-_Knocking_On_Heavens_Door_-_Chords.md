@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: eric_clapton_-_knocking_on_heavens_door_-_chords
+tags:
+- Notesheet
+- Chords
+title: Eric Clapton - Knocking On Heavens Door
+---
+
 ```
 [Verse]
 

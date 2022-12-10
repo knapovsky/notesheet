@@ -1,12 +1,14 @@
 ---
-title: A Star is Born - Shallow
-description: Shallow description
-published: 1
-date: 2022-12-09T11:07:30.497Z
-tags:Notesheet,Ost,Soundtrack,Duet
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
 editor: markdown
-dateCreated: 2022-12-09T11:07:30.497Z
-slug: shallow
+published: 1
+slug: a star is born - shallow
+tags:
+- Notesheet
+- Chords
+title: A Star is Born - Shallow
 ---
 
 ```

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: limp_bizkit_-_behind_blue_eyes_-_chords
+tags:
+- Notesheet
+- Chords
+title: Limp Bizkit - Behind Blue Eyes
+---
+
 ```
 [Verse]
 
@@ -9,7 +21,7 @@ Em                     G          D
 No one knows what it's like to be hated,
       C                 A
 To be fated, to telling only lies
- 
+
 
 [Chorus]
 
@@ -24,16 +36,16 @@ My love is vengeance that's never free
 
 
 [Verse]
- 
+
 Em                     G                  D
 No one knows what it's like to feel these feelings
-       C       A 
+       C       A
 Like I do, and I blame you
 Em                   G             D
 No one bites back as hard on their anger
         C                A
 None of my pain and woe, can show through
- 
+
 
 [Chorus]
 
@@ -49,13 +61,13 @@ My love is vengeance that's never free
 
 [Verse]
 
-Em                     G                  
+Em                     G
 No one knows what its like
            D              C
 To be mistreated, to be defeated
 A
 Behind blue eyes
-Em                   G  
+Em                   G
 No one knows how to say
               D              C
 That they're sorry and don't worry

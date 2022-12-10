@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: coldplay_-_the_scientist_-_chords
+tags:
+- Notesheet
+- Chords
+title: Coldplay - The Scientist
+---
+
 ```
 (ucablca@hotmail.com)
 
@@ -14,7 +26,7 @@ Dsus2     xx0230
 A/D       xx0220
 D6/9       xx0200
 A/E       002220
-Asus2     xx2200  
+Asus2     xx2200
 A         xx2220
 D7        xx0222
 Dsus2/C#  x40230
@@ -23,21 +35,21 @@ Dsus2/C#  x40230
 Bm7, G, D, Dsus2 x2
 
 [Verse]
-Bm7             G                 D 
+Bm7             G                 D
 Come up to meet you, tell you I'm sorry
-                   Dsus2 
+                   Dsus2
 You don't know how lovely you are
-Bm7           G                    D 
+Bm7           G                    D
 I had to find you, tell you I need you,
-                  Dsus2 
+                  Dsus2
 Tell you I’ll set you apart
-Bm7             G                     D 
+Bm7             G                     D
 Tell me your secrets, ask me your questions
-                   Dsus2 
+                   Dsus2
 Oh, let’s go back to the start
-Bm7            G               D 
+Bm7            G               D
 Running in circles, coming up tails,
-                   Dsus2 
+                   Dsus2
 Heads on a science apart
 
 [Chorus]
@@ -47,7 +59,7 @@ D           Dsus2
 It's such a shame for us to part
 G
 Nobody said it was easy
-D           A/D              D6/9     A/E Asus4 A <--(figure out the strum) 
+D           A/D              D6/9     A/E Asus4 A <--(figure out the strum)
 No one ever said it would be this hard.
 N.C.
 Oh take me back to the start...
@@ -59,21 +71,21 @@ D   | G | D | D D7
 Bm7 | G | D | Dsus2
 
 [Verse]
-Bm7             G                        D 
+Bm7             G                        D
 I was just guessing at numbers and figures
-                   Dsus2 
+                   Dsus2
 Pulling the puzzles apart
-Bm7             G                         D 
+Bm7             G                         D
 Questions of science, science and progress
-                Dsus2 
+                Dsus2
 Do not speak as loud as my heart
-Bm7             G                        D 
+Bm7             G                        D
 Tell me you love me, come back and haunt me
-                   Dsus2 
+                   Dsus2
 Oh, and I rush to the start
-Bm7             G                        D 
+Bm7             G                        D
 Running in circles, chasing our tails
-                  Dsus2 
+                  Dsus2
 Coming back as we are
 Bm7 | G | D | Dsus2 Dsus2/C# x1
 
@@ -84,7 +96,7 @@ D           Dsus2
 Oh, it’s such a shame for us to part
 G
 Nobody said it was easy
-D           A/D              D6/9     A/E Asus4 A <--(figure out the strum) 
+D           A/D              D6/9     A/E Asus4 A <--(figure out the strum)
 No one ever said it would be so hard.
 N.C.
 I’m going back to the start.

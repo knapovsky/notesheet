@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: daniel_thomas_-_amazing_grace_-_chords
+tags:
+- Notesheet
+- Chords
+title: Daniel Thomas - Amazing Grace
+---
+
 ```
 [Verse 1]
        D            G          D
@@ -14,8 +26,8 @@ was blind, but now I see.
 'Twas grace that taught my heart to fear,
                       A7
 and grace my fears relieved.
-       D           G          D                  
-How precious did that grace appear, 
+       D           G          D
+How precious did that grace appear,
             A7     D
 the hour I first believed.
 

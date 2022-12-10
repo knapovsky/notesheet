@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: coldplay_-_help_is_round_the_corner_-_chords
+tags:
+- Notesheet
+- Chords
+title: Coldplay - Help is Round The Corner
+---
+
 ```
 Stuck here in the middle of nowhere
 With a headache and a heavy heart

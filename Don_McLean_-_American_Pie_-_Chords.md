@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: don_mclean_-_american_pie_-_chords
+tags:
+- Notesheet
+- Chords
+title: Don McLean - American Pie
+---
+
 ```
 * - strum once
 
@@ -74,7 +86,7 @@ Now for ten years we've been on our own,
       C                   Am          Em                     D
 and moss grows fat on a rolling stone but that's not how it used to be
           G     D/F#            Em
-When the jester sang for the king and queen 
+When the jester sang for the king and queen
      Am7                C                   Em             A7          D
 in a coat he borrowed from James Dean in a voice that came from you and me
      Em*                 D*               Em*                 D*
@@ -138,7 +150,7 @@ And there we were all in one place,
     C        Am            Em                   D
 a generation lost in space, with no time left to start again
             G      D/F#   Em               Am7                 C
-So come on Jack be nimble, Jack be quick, Jack Flash sat on a candle 
+So come on Jack be nimble, Jack be quick, Jack Flash sat on a candle
        Em                   A7             D
 stick, 'cuz fire is the devil's only friend
      Em*              D*               Em*                    D*
@@ -178,7 +190,7 @@ wouldn't play
     Em*                Am*                    Em*                  Am*
 But in the streets the children screamed, the lovers cried and the poets dreamed
     C     G        Am          C                     D
-But not a word was spoken, the church bells all were broken 
+But not a word was spoken, the church bells all were broken
         G       D/F#   Em            Am7     C             D7
 And the three men I admire most, the Father, Son, and the Holy Ghost
 G             D/F#          Em               Am7     D7    G

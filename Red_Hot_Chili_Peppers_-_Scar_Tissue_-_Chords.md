@@ -1,5 +1,17 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: red_hot_chili_peppers_-_scar_tissue_-_chords
+tags:
+- Notesheet
+- Chords
+title: Red Hot Chili Peppers - Scar Tissue
+---
+
 ```
-[Intro]  
+[Intro]
 
 F  C  Dm  C  F  C  Dm
 

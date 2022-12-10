@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: ben_e._king_-_stand_by_me_-_chords
+tags:
+- Notesheet
+- Chords
+title: Ben E. King - Stand By Me
+---
+
 ```
 BEN E. KING - STAND BY ME
 [Intro]
@@ -5,7 +17,7 @@ BEN E. KING - STAND BY ME
  A   F#m   D   E   A
 
 [Verse 1]
-         
+
 When the night has come
 F#m
   And the land is dark
@@ -30,7 +42,7 @@ Stand by me.
 
 
 [Verse 2]
-       
+
 If the sky that we look upon
 F#m
 Should tumble and fall

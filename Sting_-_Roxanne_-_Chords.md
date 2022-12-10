@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: sting_-_roxanne_-_chords
+tags:
+- Notesheet
+- Chords
+title: Sting - Roxanne
+---
+
 ```
 Sting – Roxanne, All this Time 2001 Version
 
@@ -116,10 +128,10 @@ That`s all, I hope you enjoy!
 
 P.S.
 About the Intro en verse 1 I`m pretty sure I am right.
-Verse 2 contains maybe a litlle mistake. If you trace them (or other mistakes), please 
+Verse 2 contains maybe a litlle mistake. If you trace them (or other mistakes), please
 mail me and tell me how it you think it should be!
-My emailadress is utahjazz@planet.nl . I have not figured out how verse 3 is played on 
-the Cd. I just came up with that part myself. (Always put a little bit of your own idear 
+My emailadress is utahjazz@planet.nl . I have not figured out how verse 3 is played on
+the Cd. I just came up with that part myself. (Always put a little bit of your own idear
 in a song!) I think verse 4 is reasonable ok too.
 
 

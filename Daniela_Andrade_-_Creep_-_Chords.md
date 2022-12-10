@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: daniela_andrade_-_creep_-_chords
+tags:
+- Notesheet
+- Chords
+title: Daniela Andrade - Creep
+---
+
 ```
 This is Daniela Andrade's cover of Radiohead's - Creep
 If you follow along to the song im sure you can figure out when every chord is played

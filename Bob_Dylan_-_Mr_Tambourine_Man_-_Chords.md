@@ -1,7 +1,19 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: bob_dylan_-_mr_tambourine_man_-_chords
+tags:
+- Notesheet
+- Chords
+title: Bob Dylan - Mr Tambourine Man
+---
+
 ```
 [Intro]
 
-D        D Dsus2 D x2 
+D        D Dsus2 D x2
 
 
 [Verse]
@@ -103,18 +115,18 @@ In the jingle jangle morning I'll come followin' you.
 
 [Harmonica part 1]
 
-G   A   D   G   
-D   G   D   G  
-D   G   D   G  
-D   G   A      
+G   A   D   G
+D   G   D   G
+D   G   D   G
+D   G   A
 
-G   A   D   G   
-D   G   D   G  
-D   G   A    
-D    
+G   A   D   G
+D   G   D   G
+D   G   A
+D
 
 
-[Verse] 
+[Verse]
 
      G            A                   D                 G
 Then take me disappearin' through the smoke rings of my mind,
@@ -149,10 +161,10 @@ In the jingle jangle morning I'll come followin' you.
 [Harmonica part 2]
 
 
-G   A   D   G   
-D   G   D   G  
-D   G   D   G  
-D   G   A      
+G   A   D   G
+D   G   D   G
+D   G   D   G
+D   G   A
 
 (fade out)
 

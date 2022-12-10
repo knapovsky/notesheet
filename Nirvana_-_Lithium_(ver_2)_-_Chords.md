@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: nirvana_-_lithium_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Nirvana - Lithium (ver 2)
+---
+
 ```
 NIRVANA - Lithium
 
@@ -11,7 +23,7 @@ Chords:      D      XX0232
              Bb     X13331
              C      X35553
              A      X02220
-             
+
 
 [Intro]
 
@@ -20,7 +32,7 @@ D    F#m     Bm     G      Bb     C     A     C
 
 [Verse]
 
-D    F#m    Bm     
+D    F#m    Bm
      I'm so happy.
      G      Bb     C        A
      Cause today I found my friends.
@@ -28,13 +40,13 @@ C             D     F#m    Bm
 They're in my head. I'm so ugly.
 G          Bb         C      A
 But that's ok. 'Cause so are you.
-C               D        F#m    Bm       
+C               D        F#m    Bm
 We've broke our mirrors. Sunday morning.
 G       Bb      C      A
 Is everyday for all I care.
 C           D       F#m      Bm
 And I'm not scared. Light my candles.
-G    Bb         C           A       C       
+G    Bb         C           A       C
 In a daze cause I've found god.
 
 
@@ -79,16 +91,16 @@ Yeah............................................
 G    Bb       G       Bb
    I like it. I'm not gonna crack.
 G    Bb        G       Bb
-   I miss you. I'm not gonna crack. 
+   I miss you. I'm not gonna crack.
 G    Bb        G       Bb
    I love you. I'm not gonna crack.
 G    Bb          G       Bb
    I killed you. I'm not gonna crack.
-   
+
 G    Bb       G       Bb
    I like it. I'm not gonna crack.
 G    Bb        G       Bb
-   I miss you. I'm not gonna crack. 
+   I miss you. I'm not gonna crack.
 G    Bb        G       Bb
    I love you. I'm not gonna crack.
 G    Bb          G       Bb      C        A
@@ -101,11 +113,11 @@ D    F#m     Bm     G      Bb     C     A     C
 
 
 **********************************************************************************
-Note 1: Following chords are acoustic. It means that full chords are used (in 
+Note 1: Following chords are acoustic. It means that full chords are used (in
 original version only power chords).
-Note 2: In the original version whole song is played in dropped D and begins with 
-E chord. If you want to play like in the original, you must tune your guitar one 
+Note 2: In the original version whole song is played in dropped D and begins with
+E chord. If you want to play like in the original, you must tune your guitar one
 step down and transpond following chords one step up.
-Note 3: You can mute strings in intro and verse and play normally in 'yeah' lines 
+Note 3: You can mute strings in intro and verse and play normally in 'yeah' lines
 - it will make playing more dynamic.
 ```

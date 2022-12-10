@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: eagles_-_hotel_california_-_chords
+tags:
+- Notesheet
+- Chords
+title: Eagles - Hotel California
+---
+
 ```
 CAPO 2
 
@@ -59,7 +71,7 @@ G                                     D
 F                                         C
   and still those voices are calling from far away
 Dm
-   Wake you up in the middle of the night 
+   Wake you up in the middle of the night
 E
   Just to hear them say...
 

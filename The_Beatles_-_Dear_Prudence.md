@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_dear_prudence
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Dear Prudence
+---
+
 ```
 The Beatles - Dear Prudence
 

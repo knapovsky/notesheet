@@ -1,14 +1,18 @@
 ---
-title: Ben E. King - Stand By Me (1961)
-description: 
-published: true
-date: 2021-04-20T10:42:00.902Z
-tags: 
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
 editor: markdown
-dateCreated: 2021-04-20T09:07:30.534Z
+published: true
+slug: ben_e_king_-_stand_by_me_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Ben E King - Stand By Me (ver 4)
 ---
 
 Ben E. King - Stand By Me (1961)
+
 ```
 A  F#m  D  E   A
 
@@ -24,7 +28,7 @@ No I won't be afraid, oh I won't be afraid
 Just as long as you stand, stand by me
 
 A                                    F#m
-So darlin', darlin', stand by me, oh stand by me 
+So darlin', darlin', stand by me, oh stand by me
    D     E         A
 oh stand, stand by me, stand by me
 
@@ -40,18 +44,18 @@ I won't cry, I won't cry, no I won't shed a tear
 Just as long as you stand, stand by me
 
 A                                    F#m
-So darlin', darlin', stand by me, oh stand by me 
+So darlin', darlin', stand by me, oh stand by me
    D        E          A
 oh stand now, stand by me, stand by me
 
 A F#m D E A  2x
 
 A                                    F#m
-So darlin', darlin', stand by me, oh stand by me 
+So darlin', darlin', stand by me, oh stand by me
    D        E          A
 oh stand now, stand by me, stand by me
 
-A                               
+A
 Whenever you're in trouble just stand by me
    F#m              D            E               A
 oh stand by me, woa stand now oh stand, stand by me
@@ -62,7 +66,7 @@ When all . . .
 * Alternate:
 
 Capo II
- 
+
 A   = G
 F#m = Em
 D   = C

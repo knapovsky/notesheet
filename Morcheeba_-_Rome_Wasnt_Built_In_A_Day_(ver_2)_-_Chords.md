@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: morcheeba_-_rome_wasnt_built_in_a_day_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Morcheeba - Rome Wasnt Built In A Day (ver 2)
+---
+
 ```
         D                 D
 You and me we're meant to be
@@ -10,7 +22,7 @@ Don't you know that Rome wasn't built in a day
         D
 Hey Hey Hey
 
-D               C                   G        D   
+D               C                   G        D
 In this day and age it's so easy to stress
                   G                                C      G   D
 'Cause people are strange and you can never second guess
@@ -38,10 +50,10 @@ I'm having a daydream, we're getting somewhere
 I'm kissing your lips and running fingers through your hair
                   C                   G         D
 I'm as nervous as you 'bout making it right
-                       G                           C        
+                       G                           C
 Though we know we were wrong, we can't give up the fight
-   G      
-Oh no 
+   G
+Oh no
 
                D
 'Cause you and me we're meant to be
@@ -63,7 +75,7 @@ Walking free in harmony
 One fine day we'll fly away
                     C                      G
 Don't you know that Rome wasn't built in a day
- 
+
             D                              C
 You and me (you and me) we're meant to be (meant to be)
               G                         D

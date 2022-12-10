@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: calling_elijah_-_despite_-_chords
+tags:
+- Notesheet
+- Chords
+title: Calling Elijah - Despite
+---
+
 ```
 http://www.callingelijah.com/
 Tuning: Drop D (DADGBe)
@@ -55,7 +67,7 @@ E                                          D
 Well I stare at the sand and look at the numbers
                          E
 What else could this mean
-                          D          
+                          D
 Well it's too much for my world alone
 
 

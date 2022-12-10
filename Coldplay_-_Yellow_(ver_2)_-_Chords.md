@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: coldplay_-_yellow_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Coldplay - Yellow (ver 2)
+---
+
 ```
 [Intro]
 
@@ -82,13 +94,13 @@ For you I bleed myself dry.
 
 [Instrumental]
 
-G   D   C   G  
+G   D   C   G
 
 
 [Coda]
 
                                    D
-It's true, look how they shine for you, 
+It's true, look how they shine for you,
                         C
 Look how they shine for you
 

@@ -1,11 +1,23 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: pharrell_williams_-_happy_-_chords
+tags:
+- Notesheet
+- Chords
+title: Pharrell Williams - Happy
+---
+
 ```
 -----------------------------------------------------------------------------
                     Happy Acoustic - Pharrell Williams
 -----------------------------------------------------------------------------
 Tabbed by: Fabio-BlenderBR
-- Please rate and send me your feedback - 
+- Please rate and send me your feedback -
 
-This is a very simple version, so everyone can play. 
+This is a very simple version, so everyone can play.
 All chords are very basic. Just gonna tab this one :
 
 Bm7 ( 0 2 0 2 3 0 ) [Relative to Capo]
@@ -54,7 +66,7 @@ Clap along if you feel like that's what you wanna do
 
 E                                        A  B  A
 Here come bad news talking this and that,        yeah,
-E                                                 A  B  A    
+E                                                 A  B  A
 Well, give me all you got, and don't hold it back,        yeah,
 E                                                  A  B  A
 Well, I should probably warn you I'll be just fine,       yeah,
@@ -86,7 +98,7 @@ Hey, come on
 
 [Bridge]
 
-E   
+E
 Bring me down
 Can't nothing bring me down
 My level's too high
@@ -140,7 +152,7 @@ Clap along if you feel like that's what you wanna do
 Hey, come on
 
 
-[Bridge] 
+[Bridge]
 
 E
 (happy)

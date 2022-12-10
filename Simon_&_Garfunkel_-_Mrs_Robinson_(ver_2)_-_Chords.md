@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: simon_&_garfunkel_-_mrs_robinson_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Simon & Garfunkel - Mrs Robinson (ver 2)
+---
+
 ```
 [Intro Pattern]
 
@@ -17,7 +29,7 @@ E|-2--------------|
 
 F#                               F#7
 Di di di di di di di di di di di
-B7        
+B7
 Doo doo doo doo doo doo doo doo doo
 E7      A      D   A/C#   BM         F#7
 Di di di di di di di di di di di di
@@ -113,7 +125,7 @@ A               F#m             D
 Joltin' Joe has left and gone away
          Bm            F#
 (hey hey hey...hey hey hey)
-         
+
 
 [Outro]
 

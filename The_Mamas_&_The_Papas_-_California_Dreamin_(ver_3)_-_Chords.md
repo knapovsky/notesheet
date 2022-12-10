@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_mamas_&_the_papas_-_california_dreamin_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Mamas & The Papas - California Dreamin (ver 3)
+---
+
 ```
 Capo 4th fret
 Standard tuning
@@ -37,7 +49,7 @@ California dreamin' on such a winter's day
 Stopped in to a church     I passed along the way
  F                    C    E Am       F       Esus4  E
 Well I got down on my knees   and I pretend to pray
-  E                               Am  G  F 
+  E                               Am  G  F
 You know the preacher liked the cold
               G      Esus4  E
 He knows I'm gonna stay
@@ -52,7 +64,7 @@ play this while the flute plays:
     Am
 e|-0-0-0-0-0-0---0--0--0--0--0--0-----|
 B|-1-1-1-1-1-1---0-h1--3--1-p0--1-----|
-G|-2-2-2-2-2-2---2--2--2--2--2--2->>>>| 
+G|-2-2-2-2-2-2---2--2--2--2--2--2->>>>|
 D|-2-2-2-2-2-2---2--2--2--2--2--2-----|
 A|-0-0-0-0-0-0---0--0--0--0--0--0-----|
 E|-0-0-0-0-0-0---0--0--0--0--0--0-----|
@@ -80,5 +92,5 @@ California dreamin' on such a winter's day
 California dreamin' on such a winter's day
 
  Am   G    F           G               Am
-California dreamin' on such a winter's day 
+California dreamin' on such a winter's day
 ```

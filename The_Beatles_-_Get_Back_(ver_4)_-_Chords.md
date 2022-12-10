@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_get_back_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Get Back (ver 4)
+---
+
 ```
 #-------------------------------PLEASE NOTE-------------------------------------#
 # This file is the author's own work and represents their interpretation of the #
@@ -10,11 +22,11 @@ A  G D
 
 A                  A7
 Jojo was a man who thought he was a loner
-D                       A   
+D                       A
 But he knew it wouldn't last.
 A                     A7
 Jojo left his home in Tucson, Arizona
-D                   A    
+D                   A
 For some California grass.
 
     A  A7      A   A7
@@ -23,7 +35,7 @@ Get back,  get back.
 Get back to where you once belonged
     A  A7      A   A7
 Get back,  get back.
-    D                        A     
+    D                        A
 Get back to where you once belonged
 
 Get back Jojo
@@ -36,14 +48,14 @@ Get back,  get back.
 Get back to where you once belonged
     A  A7      A   A7
 Get back,  get back.
-    D                        A     
+    D                        A
 Get back to where you once belonged
 
 break
 
 A                    A7
 Sweet Loretta Martin thought she was a woman
-D                   A   
+D                   A
 But she was another man
 A                        A7
 All the girls around her say she's got it coming

@@ -1,12 +1,14 @@
 ---
-title: README
-description: Martin Notesheet
-published: 1
-date: 2022-12-09T11:07:30.497Z
-tags:
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
 editor: markdown
-dateCreated: 2022-12-09T11:07:30.497Z
-slug: home
+published: 1
+slug: readme
+tags:
+- Notesheet
+- Chords
+title: README
 ---
 
 # README

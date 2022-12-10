@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_drive_my_car_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Drive My Car (ver 3)
+---
+
 ```
 Drive My Car chords
 The Beatles
@@ -74,7 +86,7 @@ And baby I love you
 A                     D    G
 Beep beep'm beep beep yeah
 A                     D    G
-Beep beep'm beep beep yeah                   
+Beep beep'm beep beep yeah
 A                     D    G
 Beep beep'm beep beep yeah
 A                     D    G

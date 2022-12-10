@@ -1,14 +1,18 @@
 ---
-title: Norah Jones - Thinking about you
-description: 
-published: true
-date: 2021-04-20T10:44:59.929Z
-tags: 
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
 editor: markdown
-dateCreated: 2021-04-20T09:13:58.159Z
+published: true
+slug: norah_jones_-_thinking_about_you_-_chords
+tags:
+- Notesheet
+- Chords
+title: Norah Jones - Thinking About You
 ---
 
 # Norah Jones - Thinking about you
+
 ```
 D#     Cm           Bb    G#
 Yesterday I saw the sun shinin',

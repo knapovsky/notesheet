@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: calling_elijah_-_dont_look_back_-_chords
+tags:
+- Notesheet
+- Chords
+title: Calling Elijah - Dont Look Back
+---
+
 ```
 http://www.callingelijah.com/
 Tuning: Standard E
@@ -35,7 +47,7 @@ I'm not going to be any help with that haha.
 
 E                  A                     C#m    B
 Do you ever wonder how you have gotten this far
-E                    A                    C#m     B   
+E                    A                    C#m     B
 Life has a habit of leaving a wound and a scar
          E                               A                   C#m       B
 Well the things that have happened have told you the way it should be
@@ -63,11 +75,11 @@ There comes a time when we need to forgive and let go
 The flowers that are choked by the thorns they are trying to grow
          C#m                           A                      B
 Well you say that you're nothing, it's all that you've ever been told
-         C#m                       A                       B              
+         C#m                       A                       B
 But your past's not your future, I want you to know that they're wrong
 
 
-D                    
+D
 Life is too short to hold on
                       A2
 Turn my back and move on

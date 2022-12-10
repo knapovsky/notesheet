@@ -1,10 +1,22 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: diana_krall_-_peel_me_a_grape_-_chords
+tags:
+- Notesheet
+- Chords
+title: Diana Krall - Peel Me A Grape
+---
+
 ```
  Chord Chart to Peel Me A Grape
 
 Intro
 
 Dm  Eb7  Dm  Eb7  Dm  Dm/C  Bb7  A7
- 
+
 
 Dm7        Eb7     Dm7                 Eb7
 Peel me a grape, crush me some ice

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: duffy_-_syrup_and_honey_-_chords
+tags:
+- Notesheet
+- Chords
+title: Duffy - Syrup And Honey
+---
+
 ```
     _________________
    / Duffy          /  I think this song is about a girl who wants her husband

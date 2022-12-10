@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: cechomor_-_gorale_-_chords
+tags:
+- Notesheet
+- Chords
+title: Cechomor - Gorale
+---
+
 ```
 D            G      A        D
 Za lasami za gorami za dolinami

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_magical_mystery_tour_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Magical Mystery Tour (ver 2)
+---
+
 ```
 #-------------------------------PLEASE NOTE-------------------------------------#
 # This file is the author's own work and represents their interpretation of the #
@@ -6,7 +18,7 @@
 Magical Mystery Tour chords
 The Beatles  *
 
-D   A     
+D   A
 
 E        G               A
 Roll up, roll up for the mystery tour

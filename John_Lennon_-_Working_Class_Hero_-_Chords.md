@@ -1,9 +1,21 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: john_lennon_-_working_class_hero_-_chords
+tags:
+- Notesheet
+- Chords
+title: John Lennon - Working Class Hero
+---
+
 ```
 [Main Riff]
- 
+
 Whatever your strumming pattern may be, try to include this basic riff:
- 
-  1 + 2 + 3 + 4 + 5 + 6 +  1 + 2 + 3 + 4 + 5 + 6 +  
+
+  1 + 2 + 3 + 4 + 5 + 6 +  1 + 2 + 3 + 4 + 5 + 6 +
   Am                       Am
 e|----0---0-------0---0---|----0---0-------0---0---|
 B|----1---1-------1---1---|----1---1-------1---1---|
@@ -15,7 +27,7 @@ E|------------------------|------------------------|
 
 [Intro]
 
-  Am  
+  Am
 
 
 [Verse 1]

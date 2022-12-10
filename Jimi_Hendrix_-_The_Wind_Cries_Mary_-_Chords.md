@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: jimi_hendrix_-_the_wind_cries_mary_-_chords
+tags:
+- Notesheet
+- Chords
+title: Jimi Hendrix - The Wind Cries Mary
+---
+
 # Jimi Hendrix - Wind Cries Mary (1967)
 
 ```
@@ -68,5 +80,5 @@ With its crutch, its old age, and its wisdom
 G                         Bb     Eb E F
 It whispers no, this will be the last
 G            Bb    Eb E F  Eb E F  Eb E F  Eb E F
-And the wind cries Mary 
+And the wind cries Mary
 ```

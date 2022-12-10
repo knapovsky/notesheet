@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_yellow_submarine_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Yellow Submarine
+---
+
 ```
 Guitar tuned down ½ step in original recording.
 
@@ -36,7 +48,7 @@ Yellow submarine, yellow submarine
 
 
 [Verse]
- 
+
 G       D           C      G
 And our friends are all on board
 Em   Am           C         D
@@ -66,7 +78,7 @@ G D C G Em Em Am C D
 
 
 [Verse]
- 
+
 G     D      C       G
 As we live a life of ease
 Em   Am            C      D

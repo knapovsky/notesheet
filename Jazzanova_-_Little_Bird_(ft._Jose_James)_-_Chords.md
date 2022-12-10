@@ -1,4 +1,17 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: jazzanova_-_little_bird_(ft._jose_james)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Jazzanova - Little Bird (ft. Jose James)
+---
+
 # Little bird
+
 ```
 Of all the things I find in life
 No moments better than this

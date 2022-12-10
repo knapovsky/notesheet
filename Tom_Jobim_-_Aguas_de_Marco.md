@@ -1,5 +1,18 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: tom_jobim_-_aguas_de_marco
+tags:
+- Notesheet
+- Chords
+title: Tom Jobim - Aguas de Marco
+---
+
 Aguas de Março
 by Antonio Carlos Jobim
+
 - [Chords](www.chordsvault.com/songs/834)
 
 ```

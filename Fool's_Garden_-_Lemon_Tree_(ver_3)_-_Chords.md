@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: fool's_garden_-_lemon_tree_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Fool's Garden - Lemon Tree (ver 3)
+---
+
 ```
 It's my first tab, so be indulgent!
 
@@ -36,8 +48,8 @@ I'm wasting my time, I got nothing to do.
 I'm hanging around, I'm waiting for you,
     Dm             Em           Am       [ Em ] ( Am )
 But nothing ever happens - and I wonder.
- 
-      Am             Em 
+
+      Am             Em
 I'm driving around in my car,
      Am                        Em
 I'm driving too fast, I'm driving too far.
@@ -50,7 +62,7 @@ But nothing ever happens - and I wonder.
 
 
 [Chorus]
- 
+
   C             G
 I wonder how, I wonder why
 Am                              Em
@@ -63,17 +75,17 @@ Am                                  Em
 I'm turning turning turning turning turning around
     F              F#dim                     G       G7
 And all that I can see is just a yellow lemon tree.
- 
+
 
 [Interlude]
- 
+
 Am  Am  Em  Em  Am  Am  Em  Em  Dm  Dm  Em  Em  Am    [ Em ] ( Am )
 Dam     dadoudi....
- 
+
 
 [Verse]
 
-      Am             Em  
+      Am             Em
 I'm sitting here, I miss the power.
      Am              Em
 I'd like to go out, taking a shower,
@@ -86,7 +98,7 @@ Where nothing ever happens - and I wonder.
 
 
 [Bridge]
- 
+
 E           Am
 Isolation - Is not good for me,
 G           C                       E
@@ -101,10 +113,10 @@ Am                     Em
 Baby anyhow I'll get another toy
     Dm             Em           Am       [ Em ] ( Am )
 And everything will happen - and I will wonder.
- 
- 
+
+
 [Chorus]
- 
+
   C             G
 I wonder how, I wonder why
 Am                              Em
@@ -117,13 +129,13 @@ Am                                  Em
 I'm turning turning turning turning turning around
     F              F#dim                     G       G7
 And all that I can see is just a yellow lemon tree.     (And I wonder..., I wonder...)
- 
+
   C             G
 I wonder how, I wonder why
 Am                              Em
 Yesterday you told me 'bout the blue blue sky
-    F              G        F              G    
-And all that I can see, And all that I can see, 
+    F              G        F              G
+And all that I can see, And all that I can see,
     F              G     G 7            C
 And all that I can see is just a yellow lemon tree.
 ```

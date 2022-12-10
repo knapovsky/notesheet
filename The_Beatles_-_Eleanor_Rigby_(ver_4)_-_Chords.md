@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_eleanor_rigby_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Eleanor Rigby (ver 4)
+---
+
 ```
 Easy song to learn if your just learning guitar.
 
@@ -12,7 +24,7 @@ Ah, look at all the lonely people
 
 [Verse]
 
-Em                                                                C            
+Em                                                                C
 Eleanor rigby picks up the rice in the church where a wedding has been
 
 Lives in a dream
@@ -57,7 +69,7 @@ All the lonely people
 C                       Em
 Where do they all belong?
 
-C                            Em     
+C                            Em
 Ah, Look at all the lonely People
 C                            Em
 Ah Look at All the lonely people

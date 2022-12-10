@@ -1,7 +1,19 @@
- ```
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: buty_-_nad_stadem_koni_-_chords
+tags:
+- Notesheet
+- Chords
+title: Buty - Nad Stadem Koni
+---
+
+```
 http://groups.ultimate-guitar.com/czech/
 
- D          A  
+ D          A
 Nad stadem, koni
  Em     G            D         A      Em      G
 podkovy zvoni, zvoni cerny vuz vlecou  a slzy tecou
@@ -10,7 +22,7 @@ a ja volam:
 
  D         A        Em
 Tak neplac muj kamarade
-          G        
+          G
 nahoda je blbec kdyz krade
 
  D          A
@@ -62,7 +74,7 @@ Vysyp ten popel  / Heja hej ....
 A     G
 kamarade   / Heja hej ....
         D    A G
-do bile vody vody  / Heja hej .... 
+do bile vody vody  / Heja hej ....
          D
 Vyhasnul kotel / Heja hej ....
   A      Em

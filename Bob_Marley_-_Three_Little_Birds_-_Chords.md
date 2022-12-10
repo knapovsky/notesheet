@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: bob_marley_-_three_little_birds_-_chords
+tags:
+- Notesheet
+- Chords
+title: Bob Marley - Three Little Birds
+---
+
 ```
 [Intro]
 A
@@ -5,9 +17,9 @@ A
 [Chorus]
          A
 Don't worry, about a thing
-       D                              A 
+       D                              A
 Cause' every little thing, gonna be alright
-        A 
+        A
 Singin' don't worry, about a thing
        D                              A
 Cause' every little thing, gonna be alright
@@ -19,7 +31,7 @@ Rise up this mornin'
 Smile with the rising sun
              A                 D
 Three little birds perch by my doorstep
-        A 
+        A
 Singin' sweet songs
            E
 of melodys pure and true
@@ -31,7 +43,7 @@ sayin', this my message to you-oo-oo
 Singin' don't worry, about a thing
        D                                   A
 Cause' every little thing, (is) gonna be alright
-        A 
+        A
 Singin' don't worry, (don't worry) about a thing
        D                              A
 Cause' every little thing, gonna be alright
@@ -43,7 +55,7 @@ Rise up this mornin'
 Smile with the rising sun
              A                 D
 Three little birds perch by my doorstep
-        A 
+        A
 Singin' sweet songs
            E
 of melodys pure and true
@@ -53,9 +65,9 @@ sayin', this my message to you-oo-oo
 [Chorus]
 A
 Don't worry, about a thing
-       D                              A 
+       D                              A
 Cause' every little thing, gonna be alright
-        A 
+        A
 Singin' don't worry, about a thing
        D                              A
 Cause' every little thing, gonna be alright
@@ -69,14 +81,14 @@ D   A
 [Chorus]
 A
 Don't worry, about a thing
-       D                              A 
+       D                              A
 Cause' every little thing, gonna be alright
-        A 
+        A
 Singin' don't worry, about a thing
        D                              A
 Cause' every little thing, gonna be alright
 A
 Don't worry, about a thing
-       D                              A 
+       D                              A
 Cause' every little thing, gonna be alright
 ```

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: coldplay_-_see_you_soon_-_chords
+tags:
+- Notesheet
+- Chords
+title: Coldplay - See You Soon
+---
+
 ```
 (Originally transcribed by Sandy Butler - all credit to him)
 
@@ -104,4 +116,5 @@ I know, don't lose yout trust
 A5         E          Badd11
 I know you lost your trust
 ```
+
 ![Chords](img/coldplay-see-you-soon-chords.png)

@@ -1,19 +1,31 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: u2_-_beautiful_day_-_chords
+tags:
+- Notesheet
+- Chords
+title: U2 - Beautiful Day
+---
+
 ```
 [Intro]
 A   Bm   D    G    D   A
 A   Bm   D    G    D   A
- 
-[Verse 1] 
+
+[Verse 1]
                A   Bm   D    G         D                     A
-The heart is a bloom           Shoots  up  through the stony ground 
+The heart is a bloom           Shoots  up  through the stony ground
            A     Bm   D    G      D                      A
-There's no room               No  space  to rent in this town 
-              A     Bm   D    G          D                      A 
+There's no room               No  space  to rent in this town
+              A     Bm   D    G          D                      A
 You're out of luck               And the reason that you had to care
                A     Bm   D    G                D          A
 The traffic is stuck             And you're not mo_ving anywhere
                   A         Bm      D    G               D              A
-You thought you'd found   a friend           To take you out  of  this  place 
+You thought you'd found   a friend           To take you out  of  this  place
         A     Bm      D        G               D              A
 Someone you   could  lend    a hand         In return   for   grace
 
@@ -37,7 +49,7 @@ You've been all      over     And it's been   all   over you
                  A5     B5   D5    G5     D5              A5
 It's a beautiful day                Don't let  it get  away
                  A5     B5   D5    G5     D5              A5
-It's a beautiful day               
+It's a beautiful day
 
 [Bridge]
 F#m          G        D               A
@@ -72,9 +84,9 @@ Reach            me           I know I'm not a hopeless case
 
 [Outro]
 A                        Bm           D       G
- What  you  don't  have  you  don't   need it now  
+ What  you  don't  have  you  don't   need it now
 D                                A
- What  you  don't  know  you can feel   it somehow   
+ What  you  don't  know  you can feel   it somehow
 A                        Bm           D       G
  What  you  don't  have  you  don't   need it now
 D                                A

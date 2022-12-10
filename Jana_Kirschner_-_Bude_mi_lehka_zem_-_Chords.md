@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: jana_kirschner_-_bude_mi_lehka_zem_-_chords
+tags:
+- Notesheet
+- Chords
+title: Jana Kirschner - Bude mi lehka zem
+---
+
 ```
 C                          Gmi
 Mám pěknou sirku v zubech, krempu do čela
@@ -9,11 +21,11 @@ jen tou svou sirkou škrtni ať se ohřejem
 Až přikryje nás zem tak už si neškrtnem
 
    C          Gmi                  F        As
-R: Má, lásko, jen ty smíš kázat mi nad hrobem 
+R: Má, lásko, jen ty smíš kázat mi nad hrobem
    C          G                   C
    Má zem pak bude lehká, bude mi lehká zem
            F       C    Gmi  Ami  F  Fmi
-   Bude mi lehká zem, aáá .. 
+   Bude mi lehká zem, aáá ..
 
 Mám tu svá vysvědčení, pohlednici z Brém
 A proti pihám krém, co s nimi čert je vem

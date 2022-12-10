@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_cinematic_orchestra_-_to_build_a_home_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Cinematic Orchestra - To Build A Home
+---
+
 ```
 To Build A Home
 The Cinematic Orchestra w/ Patrick Watson
@@ -6,7 +18,7 @@ transcribed by: giacomo_brown@yahoo.com myspace.com/giacomobrown
 
 [Intro]
 
-D A E          
+D A E
 Bm D A E
 
 
@@ -33,7 +45,7 @@ D Amaj7 D A E
      D Amaj7     D        A         E
 And, I built a home  for you    for me
    D      Amaj7   D        A           E
-Until it disappeared from me    from you        
+Until it disappeared from me    from you
      D        Amaj7   D F#m     A       E
 And now, it's time to live and turn to dust........
 
@@ -53,7 +65,7 @@ D               A          E
 Branches were sewn by the color of green
 Bm           D          A            E
 Ground had arose and passed it's knees
-  
+
        D             A          E
 By the cracks of the skin I climbed to the top
 Bm             D       A      E
@@ -74,7 +86,7 @@ D Amaj7 D A E
      D Amaj7     D        A         E
 And, I built a home  for you    for me
    D      Amaj7   D        A           E
-Until it disappeared from me    from you        
+Until it disappeared from me    from you
     D         Amaj7   D F#m     A       E
 And now, it's time to live and turn to dust........
 

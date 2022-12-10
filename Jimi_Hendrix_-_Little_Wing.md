@@ -1,11 +1,14 @@
 ---
-title: Jimi Hendrix - Little Wing
-description: 
-published: true
-date: 2021-04-20T09:45:56.010Z
-tags: 
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
 editor: markdown
-dateCreated: 2021-04-20T09:39:47.424Z
+published: true
+slug: jimi_hendrix_-_little_wing
+tags:
+- Notesheet
+- Chords
+title: Jimi Hendrix - Little Wing
 ---
 
 # Jimi Hendrix - Little Wing
@@ -30,7 +33,7 @@ G = 3-5-5-4-3-3
 
 C = 3-3-5-5-5-3
 
-D = 5-5-7-7-7-5  
+D = 5-5-7-7-7-5
 
 Bm = 0-2-4-4-3-0 or 0-2-4-4-3-3
 
@@ -38,7 +41,9 @@ Em = 0-2-2-0-0-0
 
 F = 1-3-3-2-1-1
 ```
+
 ## Verse 1
+
 ```
           Em                  G
 Now she's walking through the clouds
@@ -47,14 +52,16 @@ With a circus mind that's running wild
 Bm                     Bbm7  Am                 C
 Butterflies and zebras and moonbeams, and fairy tales
 G            F            C                   D
-All she ever thinks about is 
+All she ever thinks about is
 
 Riding with the wind
 
 (It's the same chords through the whole song)
 
 ```
+
 ## Verse 2
+
 ```
         Em               G
 When I'm sad she comes to me
@@ -68,7 +75,9 @@ C              D
 Anything
 
 ```
+
 ## Outro
+
 ```
 
 Em      G                  Am
@@ -82,4 +91,3 @@ Em   Bm   Am   C   G   F   C   D
 
 Em
 ```
-

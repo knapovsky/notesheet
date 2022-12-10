@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: chinaski_-_1_signalni_-_chords
+tags:
+- Notesheet
+- Chords
+title: Chinaski - 1 Signalni
+---
+
 ```
 http://www.chinaski.cz/
 

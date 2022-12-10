@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: guns_n'_roses_-_dont_cry_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Guns N' Roses - Dont Cry (ver 2)
+---
+
 ```
 Here is how i play the chords for this song. It's a lot easier then picking
 the chords so it's good if you're a beginner.
@@ -47,7 +59,7 @@ F         G     Am
 Don't you cry tonight I still love you baby
 F         G     Am
 Don't you cry tonight
-F         G     C               G/B     Am  
+F         G     C               G/B     Am
      G
 Don't you cry tonight there's a heaven above you baby
 F             G     Am
@@ -80,7 +92,7 @@ F             G     Am
 And don't you cry tonight
 F         G     Am
 Don't you cry tonight
-F         G     C               G/B     Am  
+F         G     C               G/B     Am
      G
 Don't you cry tonight there's a heaven above you baby
 F             G     Am
@@ -121,7 +133,7 @@ F             G     Am
 And don't you cry tonight
 F             G     Am
 And don't you cry tonight
-F             G     C               G/B     
+F             G     C               G/B
 Am       G
 And don't you cry tonight there's a heaven above you baby
 F             G

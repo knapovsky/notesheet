@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: led_zeppelin_-_stairway_to_heaven_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Led Zeppelin - Stairway To Heaven (ver 2)
+---
+
 ```
 Stairway to Heaven
 By: Led Zeppelin
@@ -12,7 +24,7 @@ C       G       Am
 
 
 [Verse 1]
-                
+
 C               D
 There’s a lady who’s sure,
                 F               Am
@@ -85,7 +97,7 @@ And it makes me wonder...
 
 [Verse 4]
 
-                C               Am7     
+                C               Am7
 And it’s whispered that soon,
         Am
 If we all call the tune,
@@ -102,8 +114,8 @@ And the forests will echo with laughter.
 [Bridge 2]
 
 D/G             D
-C9 
-D/G             D       
+C9
+D/G             D
 C9
 
 
@@ -141,7 +153,7 @@ And she’s buying a Stairway to Heaven.
 Little “finishing-touch” solo
 
 
-        
+
 NOTE: These are not the same chords a single guitarist will be playing.  This was
 all done using the harmonics of each chord.  So if someone tells you, “You’re
 playing it wrong,” tell them to play along and it will match.  I promise.

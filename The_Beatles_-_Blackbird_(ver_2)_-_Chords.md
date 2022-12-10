@@ -1,7 +1,19 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_blackbird_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Blackbird (ver 2)
+---
+
 ```
 [Verse]
 
-G         Am             G/B     G 
+G         Am             G/B     G
 Blackbird singing in the dead of night
 C          C#dim       D    D#dim    Em   Eb
 Take these broken wings and learn to fly
@@ -60,7 +72,7 @@ G Am G  G G    C D   Em   D C C C   G A   D G
 
 
 [Verse]
-G         Am             G/B     G 
+G         Am             G/B     G
 Blackbird singing in the dead of night
 C          C#dim       D    D#dim    Em   Eb
 Take these broken wings and learn to fly

@@ -1,12 +1,24 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: duffy_-_syrup_honey_-_chords
+tags:
+- Notesheet
+- Chords
+title: Duffy - Syrup Honey
+---
+
 ```
               D
 Don't you be wasting all your money
-    B7 
+    B7
 on syrup and honey
        G              D
 Because i'm sweet enough
               D
-Don't you be using every minute 
+Don't you be using every minute
     B7
 on making a living
          G             D

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: bob_marley_-_stir_it_up_-_chords
+tags:
+- Notesheet
+- Chords
+title: Bob Marley - Stir It Up
+---
+
 ```
 Stir It Up chords
 Bob Marley & The Wailers 1967 (Bob Marley)
@@ -9,13 +21,13 @@ Stir it up; little darlin', stir it up. Come on, baby.
             A           D      E        A           D E
 Come on and stir it up: little darlin', stir it up. O-oh!
 
-            A     
+            A
 It's been a long, long time, yeah!
 
 (stir it, stir it, stir it together)
 D       E             A                  D       E
 Since I got you on my mind. (ooh-ooh-ooh-ooh) Oh-oh!
-A                   
+A
 Now you are here (stir it, stir it, stir it together), I said,
 D    A  E
 it's so clear
@@ -29,17 +41,17 @@ Stir it up; little darlin', stir it up. Come on, baby.
             A           D      E        A           D E
 Come on and stir it up: little darlin', stir it up. O-oh!
 
-A 
+A
 I'll push the wood (stir it, stir it, stir it together),
        D        E
 then I blaze ya fire;
 A                      D         E
 Then I'll satisfy your heart's desire. (ooh-ooh-ooh-ooh)
-A                   
+A
 Said, I stir it every (stir it, stir it, stir it together),
 D     E
 every minute:
-A         
+A
 All you got to do, baby, (ooh-ooh-ooh-ooh)
 D          E
 Is keep it in, eh!

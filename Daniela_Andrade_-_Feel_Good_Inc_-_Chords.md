@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: daniela_andrade_-_feel_good_inc_-_chords
+tags:
+- Notesheet
+- Chords
+title: Daniela Andrade - Feel Good Inc
+---
+
 ```
 Feel Good Inc Cover by Daniela Andrade - https://www.youtube.com/watch?v=7C9EYka6fIU
 

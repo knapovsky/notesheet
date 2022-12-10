@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_strawberry_fields_forever_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Strawberry Fields Forever (ver 4)
+---
+
 ```
 Strawberry Fields Forever By The Beatles
 Capo first fret
@@ -5,7 +17,7 @@ Capo first fret
 
 Chords used:
 E* X79997
-Emaj7 X79897 
+Emaj7 X79897
 E7 X79797
 F#m* X9(11)(11)(10)9
 D* X57775
@@ -25,7 +37,7 @@ E 022100
 
 [Chorus 1]
 
-A                    
+A
   Let me take you down,
                 Em7
 cause Im going to
@@ -41,7 +53,7 @@ Strawberry fields forever
 
 [Verse 1]
 
-E*        Emaj7     E7      
+E*        Emaj7     E7
 Living is easy with eyes closed
 F#m      E               D
 Misunderstanding all you see
@@ -55,7 +67,7 @@ D          E              D   A
 
 [Chorus 2]
 
-A                    
+A
   Let me take you down,
                 Em7
 cause Im going to
@@ -71,12 +83,12 @@ Strawberry fields forever
 
 [Verse 2]
 
-E*        Emaj7        E7    
+E*        Emaj7        E7
 No one, I think, is in my tree
 F#m         E               D
  I mean, it must be high or low
 D             E                     A
- That is, you can't, you know, tune in, 
+ That is, you can't, you know, tune in,
           F#m
 But its alright
 D           E                 D   A
@@ -85,7 +97,7 @@ D           E                 D   A
 
 [Chorus 3]
 
-A                    
+A
   Let me take you down,
                 Em7
 cause Im going to
@@ -101,12 +113,12 @@ Strawberry fields forever
 
 [Verse 3]
 
-E*      Emaj7   E7    
+E*      Emaj7   E7
 Always, no, sometimes, think its me
 F#m               E               D
  But, you know, I know when its a dream
 D             E               A
- I think, er, no, I mean, er, yes, 
+ I think, er, no, I mean, er, yes,
             F#m
 But its all wrong
 D           E            D   A
@@ -129,7 +141,7 @@ D                    A     F#m
 Strawberry fields forever
 D                    A
 Strawberry fields forever
-D          E         D        
+D          E         D
 Strawberry fields forever
 
 
@@ -137,6 +149,6 @@ Strawberry fields forever
 
 (fade out)
 
-|A     |A     |A     |A     | 
-|A     |A     |A     |A     | 
+|A     |A     |A     |A     |
+|A     |A     |A     |A     |
 ```

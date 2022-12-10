@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_eight_days_a_week_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Eight Days A Week (ver 4)
+---
+
 ```
 D    x-x-0-7-7-5     or x-x-0-2-3-2
 E/D  x-x-0-9-9-7     or x-x-0-4-5-4
@@ -6,7 +18,7 @@ G/D  x-x-0-12-12-10  or x-x-0-7-8-7
 
 [Intro]
 
-D   E/D   G/D   D  
+D   E/D   G/D   D
 
 
 [Verse]
@@ -80,7 +92,7 @@ Just like I need you.
 [Chorus]
 
 Bm       G        Bm       E
-Hold me, love me, hold me, love me                       
+Hold me, love me, hold me, love me
   D                     E7
 I ain't got nothin' but love babe,
 G            D
@@ -114,7 +126,7 @@ Love you all the time.
 [Chorus]
 
 Bm       G        Bm       E
-Hold me, love me, hold me, love me.                       
+Hold me, love me, hold me, love me.
   D                     E7
 I ain't got nothin' but love girl,
 

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: coldplay_-_help_is_round_the_corner_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Coldplay - Help Is Round The Corner (ver 4)
+---
+
 ```
 HELP IS AROUND THE CORNER
 By Coldplay
@@ -9,7 +21,7 @@ D                           Bm
 With a head ache and a heavy heart
 D                           Bm
 Well nothing is going quite right here
-D                           Bm     
+D                           Bm
 And I'm tired I can't play my part
 
 G                          E

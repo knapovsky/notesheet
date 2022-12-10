@@ -1,6 +1,18 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: oasis_-_wonderwall_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Oasis - Wonderwall (ver 4)
+---
+
 ```
 [Intro]
-Em7 G   Dsus4   A7sus4   Em7 G   Dsus4   A7sus4  
+Em7 G   Dsus4   A7sus4   Em7 G   Dsus4   A7sus4
 
 [Verse 1]
 Em7      G
@@ -13,7 +25,7 @@ By now you should of somehow
 Realised what you gotta do.
 Em7                  G       Dsus4           A7sus4
 I don't believe that anybody feels the way I do
-          Cadd9 Dsus   A7sus4 
+          Cadd9 Dsus   A7sus4
 About you now.
 
 [Verse 2]
@@ -27,7 +39,7 @@ I'm sure you've heard it all before,
 But you never really had a doubt.
 Em7                  G       Dsus4           A7sus4
 I don't believe that anybody feels the way I do
-          Em7 G   Dsus4 A7sus4 
+          Em7 G   Dsus4 A7sus4
 About you now.
 
 [Bridge]
@@ -47,7 +59,7 @@ Because maybe,
 You're gonna be the one that saves me,
     Em7   Cadd9  Em7   G
 And after all,
-          Em7   Cadd9  Em7   G Em7/B   A7sus4 
+          Em7   Cadd9  Em7   G Em7/B   A7sus4
 You're my wonderwall.
 
 [Verse 3]
@@ -61,7 +73,7 @@ By now you should have somehow
 Realised what you're not to do.
 Em7                  G       Dsus4           A7sus4
 I don't believe that anybody feels the way I do
-          Em7  G     Dsus4 A7sus4  
+          Em7  G     Dsus4 A7sus4
 About you now.
 
 [Bridge 2]
@@ -81,7 +93,7 @@ I said maybe,
 You're gonna be the one that saves me,
     Em7   Cadd9  Em7   G
 And after all,
-          Em7   Cadd9  Em7   G Em7  
+          Em7   Cadd9  Em7   G Em7
 You're my wonderwall.
 
 [Chorus 3]
@@ -91,7 +103,7 @@ I said maybe,
 You're gonna be the one that saves me,
     Em7   Cadd9  Em7   G
 And after all,
-          Em7   Cadd9  Em7   G Em7 
+          Em7   Cadd9  Em7   G Em7
 You're my wonderwall.
 
 [Outro]
@@ -101,10 +113,10 @@ I said maybe,
 You're gonna be the one that saves me,
        Em7                   Cadd9     Em7   G
 You're gonna be the one that saves me,
-       Em7                   Cadd9     Em7   G Em7 
+       Em7                   Cadd9     Em7   G Em7
 You're gonna be the one that saves me,
 
 [Instrumental]
-Cadd9 Em7   G Em7   Cadd9 Em7   G Em7  
+Cadd9 Em7   G Em7   Cadd9 Em7   G Em7
 
 ```

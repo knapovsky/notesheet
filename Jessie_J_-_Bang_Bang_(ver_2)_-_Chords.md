@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: jessie_j_-_bang_bang_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Jessie J - Bang Bang (ver 2)
+---
+
 ```
 Capo 3
 
@@ -12,18 +24,18 @@ I suggest strumming the chords in the verses normal once, and then muting them u
 
 N.C.     A7
 
-                                          
+
 [Verse]
                                         A7
 She got a body like an hourglass, but I can give it to you all the time
-N.C.                                         N.C.      
+N.C.                                         N.C.
 
-A7                                            A7                           
+A7                                            A7
    She got a booty like a Cadillac, but I can send you into overdrive (oh)
    N.C.                                            N.C.
-  A7                          
+  A7
 (Stop and wait, wait for that,
- A7                           
+ A7
 stop, hold up, swing your bat)
                                             A7
 See anybody could be bad to you, you need a good girl to blow your mind  Yeah   oh
@@ -31,19 +43,19 @@ N.C.
 
 [Chorus]
 
-A                          
+A
 Bang bang into the room (I know you want it)
-A                            
+A
 Bang bang all over you (I'll let you have it)
-A                             G        
+A                             G
 Wait a minute let me take you there (ah)
-A                         A7 
+A                         A7
    Wait a minute 'til ya  (ah) hey
-A                                  
+A
 Bang bang there goes your heart (I know you want it)
-A                               
+A
 Back, back seat of my car (I'll let you have it)
-A                             G      
+A                             G
 Wait a minute let me take you there (ah)
 A                          A7
   Wait a minute 'til ya   (ah)
@@ -51,21 +63,21 @@ A                          A7
 
 [Verse]
 
-A7                                        
+A7
   She might've let you hold her hand in school,
-  N.C. 
-          A7                                            
+  N.C.
+          A7
 but I'mma show you how to graduate
                N.C.
 A7
    No, I don't need to hear you talk the talk, just come and
    N.C.
-A7                                      
+A7
    show me what your momma gave (Oooh yeah)
     N.C.
-      A7                       
+      A7
 (Your love gotta be baby,
-A7                         
+A7
 love but don't say a thing)
                                              A7
 See anybody could be good to you, you need a bad    girl to blow your mind
@@ -73,17 +85,17 @@ N.C.                                            N.C.
 
 [Chorus]
 
-A                          
+A
 Bang bang into the room (I know you want it)
-A                            
+A
 Bang bang all over you (I'll let you have it)
                                      G
 Wait a minute let me take you there (ah)
 A                          A7
    Wait a minute 'til ya   (ah)
-A                                  
+A
 Bang bang there goes your heart (I know you want it)
-A                               
+A
 Back, back seat of my car (I'll let you have it)
 A                                   G
 Wait a minute let me take you there (ah)
@@ -96,16 +108,16 @@ A                          A7
      A
 It's Myx moscato, it's frizz in a bottle
          N.C.
-         
+
 It's Nicki full throttle, it's oh, oh
 A
 Swimming in the grotto, we winning in the lotto
          N.C.
-                                  
+
 We dipping in the pot of blue foam  so
 A
 Kitten so good, it's dripping on wood
-       N.C.     
+       N.C.
 
 Get a ride in the engine that could  go
 A
@@ -115,13 +127,13 @@ Batman robbin' it, bang bang, cockin' it
 Queen Nicki dominant, prominent
 G        A
 It's me, Jessie, and Ari, if they test me, they sorry
-        A                                             
+        A
 Ride us up like a Harley then pull off in this Ferrari
 G     A
 If he hanging we banging, phone ringing, he slanging
                                                          G
 It ain't karaoke night but get the mic 'cause he singing Ah
- A        A9                           
+ A        A9
 (B to the A to the N to the G to the uh)
  A                                   G    A
 (B to the A to the N to the G to the hey)
@@ -134,17 +146,17 @@ You need a bad girl to blow your mind         hey
 
 [Chorus]
 
-A                          
+A
 Bang bang into the room (I know you want it)
-A                            
+A
 Bang bang all over you (I'll let you have it)
                                      G
 Wait a minute let me take you there (ah)
 A                          A7
    Wait a minute 'til ya   (ah)
-A                                  
+A
 Bang bang there goes your heart (I know you want it)
-A                               
+A
 Back, back seat of my car (I'll let you have it)
 A                                   G
 Wait a minute let me take you there (ah)

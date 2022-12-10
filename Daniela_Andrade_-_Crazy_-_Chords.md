@@ -1,7 +1,19 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: daniela_andrade_-_crazy_-_chords
+tags:
+- Notesheet
+- Chords
+title: Daniela Andrade - Crazy
+---
+
 ```
 Capo 2
 
-[Intro] 
+[Intro]
 
 Am G F E
 
@@ -13,7 +25,7 @@ I remember when,
 I remember I remember when I lost my mind
                                            F
 There was something so pleasant about that place
-                                             E 
+                                             E
 Even your emotions have an echo Into so much space
 
                     Am
@@ -38,8 +50,8 @@ Does that make me crazy?
 Possibly
 
 
-Am   
-Pa pa pa pe 
+Am
+Pa pa pa pe
 G
 Pa pa pa pe
 F
@@ -55,7 +67,7 @@ Who do you, who do you who do you think you are?
 Ha ha ha Bless your soul
 You really think you’re in control?
 
- 
+
 [Chorus]
 
 I think you’re crazy
@@ -64,12 +76,12 @@ And I think you’re crazy
 Just like me
 
 
-Pa pa pa pe 
+Pa pa pa pe
 Pa pa pa pe
 Pa pa pa pe
 Pa pa pa pe
 
- 
+
 [Verse]
 
 Ever since I was little
@@ -77,7 +89,7 @@ Ever since I was little and it looked like fun
 And it’s no coincidence I’ve come
 And I can die when I’m done.
 
- 
+
 [Chorus]
 
 Maybe I’m crazy
@@ -86,8 +98,8 @@ Maybe we’re crazy
 Probably
 
 
-Pa pa pa pe 
 Pa pa pa pe
 Pa pa pa pe
-Pa pa pa pe 
+Pa pa pa pe
+Pa pa pa pe
 ```

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: kenny_rogers_-_the_gambler_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Kenny Rogers - The Gambler (ver 2)
+---
+
 ```
 Okay,so the only other decent looking chords had the incorrect lyrics and a few other faults.
 The first few lines are picking then he goes into the strumming.Listen to the song for the rythym.
@@ -31,7 +43,7 @@ For a taste of your whiskey I'll give you some advice."
 [Verse 3]
 
      G                           C                  G
-So I handed him my bottle and he drank down my last swallow. 
+So I handed him my bottle and he drank down my last swallow.
 C                G             C              D
 Then he bummed a cigarette and asked me for a light.
         G                                C                 G

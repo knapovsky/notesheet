@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: george_gershwin_-_summertime_-_chords
+tags:
+- Notesheet
+- Chords
+title: George Gershwin - Summertime
+---
+
 ```
       Em  Am Em       Am        Em   Am Em
 Summertime,   and the livin' is easy

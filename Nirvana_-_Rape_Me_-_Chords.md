@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: nirvana_-_rape_me_-_chords
+tags:
+- Notesheet
+- Chords
+title: Nirvana - Rape Me
+---
+
 ```
 [Intro]                           Tuning : Eb
 
@@ -17,7 +29,7 @@ E|--5-----5------------------0-----0---3----------3--|
    Rape me
    Rape me    again
 
-   
+
 [Chorus]
 
 A5       C5       E5    G5
@@ -27,7 +39,7 @@ I am not the only one aaahhhhaaa
 A5       C5       E5    G5
 I am not the only one aaahhhhaaa
 A5       C5       E5    G5
-I am not the only one 
+I am not the only one
 
 
 [Verse 2]
@@ -51,18 +63,18 @@ I am not the only one aaahhhhaaa
 A5       C5       E5    G5
 I am not the only one aaahhhhaaa
 A5       C5       E5    G5
-I am not the only one 
+I am not the only one
 
 
 [Bridge]
 
-C#5                    A5    G 
-My favorite inside source 
-C#5                    A5    G 
+C#5                    A5    G
+My favorite inside source
+C#5                    A5    G
 I'll kiss your open sores
-C#5                    A5    G 
-appreciate your concern 
-C#5                    A5    G 
+C#5                    A5    G
+appreciate your concern
+C#5                    A5    G
 you'll always stink and burn
 
 F5  G5   E5
@@ -90,7 +102,7 @@ I am not the only one aaahhhhaaa
 A5       C5       E5    G5
 I am not the only one aaahhhhaaa
 A5       C5       E5    G5
-I am not the only one 
+I am not the only one
 
 
 [Outro]

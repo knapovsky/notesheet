@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: adele_-_rolling_in_the_deep_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Adele - Rolling In The Deep (ver 2)
+---
+
 ```
 [Intro]
 
@@ -40,12 +52,12 @@ I can't help feeling...
 
 E                            Am                              G
 We could have had it all... (I wish you, never had met me)...
-F (hold)                                                                        
+F (hold)
           G
 Rolling in the Deep (Tears are gonna fall, rolling in the deep)
 Am                                                                       G
 Your had my heart... (I wish you)... Inside of your hand (Never had met me)
-F (hold)                                                                        
+F (hold)
                                    G
 And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)
 
@@ -58,7 +70,7 @@ Baby I have no story to be told,
 But I've heard one of you and I'm gonna make your head burn.
 Am                      E
 Think of me in the depths of your despair.
- G                                          E                          
+ G                                          E
                 G
 Making a home down there, as mine sure won't be shared.
 
@@ -76,12 +88,12 @@ I can't help feeling...
 
 E                            Am                              G
 We could have had it all... (I wish you, never had met me)...
-F (hold)                                                                        
+F (hold)
           G
 Rolling in the Deep (Tears are gonna fall, rolling in the deep)
 Am                                                                              G
 Your had my heart... (I wish you)... Inside of your hand (Never had met me)
-F (hold)                                                                        
+F (hold)
                                    G
 And you played it... (Tears are gonna fall)... To the beat (Rolling in the deep)
 

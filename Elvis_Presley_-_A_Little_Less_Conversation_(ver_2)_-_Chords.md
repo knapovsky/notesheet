@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: elvis_presley_-_a_little_less_conversation_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Elvis Presley - A Little Less Conversation (ver 2)
+---
+
 ```
 ---------------------------------------------------------------------------
 A Little Less Conversation - Elvis Presley
@@ -8,12 +20,12 @@ Written by: MacDavis/Billy Strange
 Tabbed by: maguri
 Tuning: Standard
 
-There are two versions around. One is from the soundtrack of Elvis’ 1968 
-movie "Live a Little, Love a Little" (in the key of A). During a recording 
-studio session for the 1968 television special, Elvis did a new version 
-of the song (in the key of E). It ended up not being used in the TV show 
-at all and was first released 30 years later on "Memories: The '68 Comeback 
-Special". This second version was used for the JXL Radio Edit Remix included 
+There are two versions around. One is from the soundtrack of Elvis’ 1968
+movie "Live a Little, Love a Little" (in the key of A). During a recording
+studio session for the 1968 television special, Elvis did a new version
+of the song (in the key of E). It ended up not being used in the TV show
+at all and was first released 30 years later on "Memories: The '68 Comeback
+Special". This second version was used for the JXL Radio Edit Remix included
 on "Elvis 30 #1 Hits".
 
 ---------------------------------------------------------------------------
@@ -22,7 +34,7 @@ on "Elvis 30 #1 Hits".
 
 LICK
   [N.C.]                                   [N.C.]
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +         1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +         1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
 e|----------------|----------------|     e|----------------|----------------|
 B|----------------|----------------|     B|----------------|----------------|
 G|--------0-4---2-|--0---------0---| or  G|----------------|----------------|
@@ -64,13 +76,13 @@ Satisfy me baby
 
 [VERSE]
 
-A7                       D7 
-Baby close your eyes and listen to the music 
-A7                        D7 
+A7                       D7
+Baby close your eyes and listen to the music
+A7                        D7
 Drifting through a summer breeze
-A7                            D7 
+A7                            D7
 It’s a groovy night and I can show you how to use it
-A7                              D7 
+A7                              D7
 Come along with me and put your mind at ease
 
 
@@ -94,10 +106,10 @@ Satisfy me baby
 
 A                               | % | % |
 [break]                         (LICK)
-Come on baby I’m tired of talking  
+Come on baby I’m tired of talking
 A                                      | % | % |
 [break]                                (LICK)
-Grab your coat and let’s start walking 
+Grab your coat and let’s start walking
 A
 Come on, come on
 C
@@ -140,7 +152,7 @@ Satisfy me baby
 
 LICK
   [N.C.]                                   [N.C.]
-  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +         1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +  
+  1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +         1 + 2 + 3 + 4 +  1 + 2 + 3 + 4 +
 e|----------------|----------------|     e|----------------|----------------|
 B|----------------|----------------|     B|----------------|----------------|
 G|----------------|----------------|     G|----------------|----------------|
@@ -161,7 +173,7 @@ A7   x-0-2-0-2-0
 [INTRO]
 
 | E  | A | E | A | N.C. | % |
-                  (LICK] 
+                  (LICK]
 
 [CHORUS]
 
@@ -182,12 +194,12 @@ Satisfy me baby
 [VERSE]
 
 E7                       A7
-Baby close your eyes and listen to the music 
-E7                        A7 
+Baby close your eyes and listen to the music
+E7                        A7
 Drifting through a summer breeze
-E7                            A7 
+E7                            A7
 It’s a groovy night and I can show you how to use it
-E7                              A7 
+E7                              A7
 Come along with me and put your mind at ease
 
 

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: phil_collins_-_against_all_odds_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Phil Collins - Against All Odds (ver 2)
+---
+
 ```
 Capo: 1st Fret
 

@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: alanis_morissette_-_you_oughta_know_-_chords
+tags:
+- Notesheet
+- Chords
+title: Alanis Morissette - You Oughta Know
+---
+
 ```
 Capo: 2 Fret
 
@@ -7,13 +19,13 @@ Em                        A
 I want you to know that I'm happy for you.
 Em                        A
 I wish nothing but the best for you both.
-        Em                       
+        Em
 Another version of me Is she perverted like me?
-             A                  
+             A
 Would she go down on you in a theatre?
-               Em                         
+               Em
 Does she speak eloquently? And would she have your baby?
-               A                        
+               A
 I'm sure she'd make a really excellent mother.
 
 
@@ -25,7 +37,7 @@ I'm sure she'd make a really excellent mother.
 wasn't able to make it enough for you to be open wide. No,
 Em
 and every time you speak her name
-         G                 
+         G
 does she know how you told me you'd hold me
    A
 until you died? `Til you died,
@@ -42,15 +54,15 @@ of the mess you left when you went away.
 It's not fair to deny me
          G                   A
 of the cross I bear that you gave to me.
-A     
+A
 You, you, you oughta know.
 
 
 [Verse 2]
 
-You seem very well. 
+You seem very well.
 Things look peaceful.
-I'm not quite as well. 
+I'm not quite as well.
 I thought you should know.
 
 Did you forget about me Mr. Duplicity?
@@ -67,7 +79,7 @@ and are you thinking of me when you fuck her?
 wasn't able to make it enough for you to be open wide. No,
 Em
 and every time you speak her name
-         G                 
+         G
 does she know how you told me you'd hold me
    A
 until you died? `Til you died,
@@ -84,7 +96,7 @@ of the mess you left when you went away.
 It's not fair to deny me
          G                   A
 of the cross I bear that you gave to me.
-A     
+A
 You, you, you oughta know.
 
 
@@ -92,7 +104,7 @@ You, you, you oughta know.
 
 Cause the joke that you laid in the bed that was me,
 and I'm not gonna fade as soon as you close your eyes, and you know it.
-And every time I scratch my nails down                  
+And every time I scratch my nails down
 someone else's back
 I hope you feel it. Can you feel it?
 
@@ -107,6 +119,6 @@ of the mess you left when you went away.
 It's not fair to deny me
          G                   A
 of the cross I bear that you gave to me.
-A     
+A
 You, you, you oughta know.
 ```

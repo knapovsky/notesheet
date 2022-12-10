@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_here_comes_the_sun_(ver_2)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Here Comes The Sun (ver 2)
+---
+
 ```
 #-------------------------------PLEASE NOTE-------------------------------------#
 # This file is the author's own work and represents their interpretation of the #
@@ -12,7 +24,7 @@ The Beatles
 A D E7 2x  *
 
 
-A          
+A
 Here comes the sun (Du du du du)
 D              B7
 Here comes the sun
@@ -32,7 +44,7 @@ Little darling
 It feels like years since it's been here
 
 
-A          
+A
 Here comes the sun (Du du du du)
 D              B7
 Here comes the sun
@@ -52,7 +64,7 @@ Little darling
 It seems like years since it's been here
 
 
-A          
+A
 Here comes the sun (Du du du du)
 D              B7
 Here comes the sun
@@ -76,7 +88,7 @@ Little darling
 It seems like years since it's been clear
 
 
-A          
+A
 Here comes the sun (Du du du du)
 D              B7
 Here comes the sun
@@ -86,7 +98,7 @@ A           D A Bm A E7
 It's alright
 
 
-A          
+A
 Here comes the sun (Du du du du)
 D              B7
 Here comes the sun
@@ -120,7 +132,7 @@ Capo VII
 D G A7
 
 
-D          
+D
 Here comes the sun (Du du du du)
 G              E7
 Here comes the sun
@@ -140,7 +152,7 @@ Little darling
 It feels like years since it's been here
 
 
-D          
+D
 Here comes the sun (Du du du du)
 G              E7
 Here comes the sun
@@ -160,7 +172,7 @@ Little darling
 It seems like years since it's been here
 
 
-D          
+D
 Here comes the sun (Du du du du)
 G              E7
 Here comes the sun
@@ -184,7 +196,7 @@ Little darling
 It seems like years since it's been clear
 
 
-D          
+D
 Here comes the sun (Du du du du)
 G              E7
 Here comes the sun
@@ -194,7 +206,7 @@ D           G  D  G  A7
 It's alright
 
 
-D          
+D
 Here comes the sun (Du du du du)
 G              E7
 Here comes the sun

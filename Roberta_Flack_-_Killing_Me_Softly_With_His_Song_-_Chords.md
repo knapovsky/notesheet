@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: roberta_flack_-_killing_me_softly_with_his_song_-_chords
+tags:
+- Notesheet
+- Chords
+title: Roberta Flack - Killing Me Softly With His Song
+---
+
 ```
 [Chorus]
 
@@ -119,16 +131,16 @@ Killing me softly
 with his song.
 
 
-Em    Am 
+Em    Am
 Ooooh oooh,
 D7        G
 Ooooh, ooooh
 Em            A
 La la la, la la la
-D         C      
+D         C
 Ooooh oooh
 G      C       Esus4
-Laaaaah...                  
+Laaaaah...
 E
 Laaaaaaah
 

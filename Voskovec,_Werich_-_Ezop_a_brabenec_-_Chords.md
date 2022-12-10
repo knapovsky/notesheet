@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: voskovec,_werich_-_ezop_a_brabenec_-_chords
+tags:
+- Notesheet
+- Chords
+title: Voskovec, Werich - Ezop a brabenec
+---
+
 ```
 C      Emi    Ami  Ami7    F  G7  C
 Jednou z lesa domů se nesa moudrý Ezop,

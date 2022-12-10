@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: jimi_hendrix_-_hey_joe_-_chords
+tags:
+- Notesheet
+- Chords
+title: Jimi Hendrix - Hey Joe
+---
+
 ```
 Hey Joe by Jimi Hendrix
 -----------------------
@@ -35,7 +47,7 @@ Huh! And that ain’t cool.
 
 
 [Verse 2]
- 
+
  C       G D A                        E
 A hey Joe,   I heard you shot your woman down,
                       E
@@ -66,7 +78,7 @@ C G D A E
 C G D A E E
            Oh alright.
 
-           
+
 [Verse 3]
 C    G
    Hey Joe
@@ -101,5 +113,5 @@ C     G
 D            A      E
   You better run on down
                   E
-Goodbye everybody. Ow! 
+Goodbye everybody. Ow!
 ```

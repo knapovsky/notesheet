@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: extreme_-_more_than_words_-_chords
+tags:
+- Notesheet
+- Chords
+title: Extreme - More Than Words
+---
+
 ```
 Tune 1/2 step down - Eb Ab Db Gb Bb eb
 
@@ -54,7 +66,7 @@ G Cadd9 Am7 C C D G (x2)
 [Verse 2]
 
 G          Cadd9
-Now that I've tried to 
+Now that I've tried to
 Am7             C       D         G
 Talk to you and make you understand
 G                Cadd9

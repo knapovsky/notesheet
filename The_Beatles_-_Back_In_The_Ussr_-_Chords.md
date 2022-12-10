@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_back_in_the_ussr_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Back In The Ussr
+---
+
 ```
 Back in the U.S.S.R
 (Lennon/McCartney)
@@ -5,7 +17,7 @@ The Beatles
 The "White Album" (1968)
 
 
-E  E7  
+E  E7
 
 
 [Verse]
@@ -48,7 +60,7 @@ Honey disconnect the phone
 I'm back in the U.S.S.R.
 C                             D
 You don't know how lucky you are boy
-Gadd9                 
+Gadd9
 Back in the U.S.
 
 Back in the U.S.
@@ -78,7 +90,7 @@ G|17b(19)-(19)-17b(19)-(19)-17b(19)-(19)-17b(19)-(19)-17b(19)-17b(19)-17b(19)|
 D|---------------------------------------------------------------------------|
 A|---------------------------------------------------------------------------|
 E|---------------------------------------------------------------------------|
-  
+
    C                               D       A                 D
 e|---------------------------------------------------------------------------|
 B|---------15--15b(17)b15----------------------------------------------------|
@@ -102,7 +114,7 @@ E|-------------------------------------|
 I'm back in the U.S.S.R.
  C                            D
 You don't know how lucky you are boy
-                  A 
+                  A
 Back in the U.S.S.R.
 
 
@@ -141,7 +153,7 @@ Back in the U.S.S.R.
 
 ************************************
 
-| (n)  Ghost note 
+| (n)  Ghost note
 | b    Bend
 
 ************************************

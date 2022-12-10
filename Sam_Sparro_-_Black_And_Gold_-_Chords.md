@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: sam_sparro_-_black_and_gold_-_chords
+tags:
+- Notesheet
+- Chords
+title: Sam Sparro - Black And Gold
+---
+
 ```
 This is the only correct tab of the song on the internet. Fact.
 
@@ -26,7 +38,7 @@ you even set my world into motion
           Em
 'cause if you're not really here
 then the stars don't even matter
-        Cadd9  
+        Cadd9
 now i'm filled to the top with fear
          A7sus4              B7
 but it's all just a bunch of matter

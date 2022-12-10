@@ -1,33 +1,45 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_octopuss_garden_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Octopuss Garden
+---
+
 ```
 [Intro]
 B E
 B A B
 E C#m A B
-        
+
 [Verse 1]
-E             C#m 
+E             C#m
 I'd like to be under the sea
-A                              B       
+A                              B
 In an Octopus's Garden in the shade.
-E              C#m 
+E              C#m
 He'd let us in knows where we've been,
 A                              B
 In his Octopus's Garden in the shade.
 C#m
-I'd ask my friends to come and see     
+I'd ask my friends to come and see
 A              B
 An Octopus's Garden with me.
-E              C#m  
+E              C#m
 I'd like to be under the sea
 A               B             E
 In an Octopus's Garden in the shade.
 
 [Verse 2]
-E                C#m 
+E                C#m
 We would be warm below the storm
 A                                  B
 In our little hideaway beneath the waves.
-E                C#m 
+E                C#m
 Resting our head on the sea bed
 A                             B
 In an Octopus's Garden near a cave.
@@ -45,7 +57,7 @@ A F#m D   E
 A F#m D E A B
 
 [Verse 3]
-E              C#m 
+E              C#m
 We would shout and swim about
 A                              B
 The coral that lies beneath the waves.

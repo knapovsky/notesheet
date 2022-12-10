@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: red_hot_chili_peppers_-_under_the_bridge_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Red Hot Chili Peppers - Under The Bridge (ver 3)
+---
+
 ```
 Red Hot Chili Peppers - Under the Bridge
 
@@ -50,13 +62,13 @@ E/B       B       Dbm       A      Emaj7
 Lonely as I am, together we cry
 
 [Chorus]
-     F#m                  E/B  B*     F#m    
+     F#m                  E/B  B*     F#m
 Well, I don't ever want to feel like I did that day
 F#m                    E/B   B*      F#m
 Take me to the place I love, take me all the way
       F#m                  E/B  B*     F#m
 Well, I don't ever want to feel like I did that day
-F#m                    E/B   B*      F#m       A  Am    G     F    
+F#m                    E/B   B*      F#m       A  Am    G     F
 Take me to the place I love, take me all the way, yeah, yeah, yeah
 
 [Bridge]
@@ -91,7 +103,7 @@ G            F
 ...I gave my life away
 
 [Outro]
-A    Am    G     F    
+A    Am    G     F
 way, yeah, yeah, yeah
 A  Am          G     F
 oh no, no, no, no, yeah, yeah
@@ -101,9 +113,9 @@ A  Am         G    F
               yeah yeah
 
 [Instrumental]
-A  C    G    F 
-A  C    G    F 
-A  C    G    F 
-A  C    G    F 
+A  C    G    F
+A  C    G    F
+A  C    G    F
+A  C    G    F
 A
 ```

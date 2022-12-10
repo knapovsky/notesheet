@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_beatles_-_revolution_(ver_7)_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Beatles - Revolution (ver 7)
+---
+
 ```
 Revolution chords **
 The Beatles  *  1968
@@ -16,7 +28,7 @@ but when you talk about destruction
 Bm                          G     A  F#   E
 don't you know that you can count me out
 
-                          A     D           
+                          A     D
 Don't you know it's gonna be, alright 3x
 
 E
@@ -35,7 +47,7 @@ But if you want money for people with minds that hate
 Bm                                G    A  F#  E
 All I can tell you is brother you have to wait
 
-                          A     D           
+                          A     D
 Don't you know it's gonna be, alright 3x
 
 E
@@ -52,9 +64,9 @@ You better free your mind instead
 Bm                                 E
 But if you go carrying pictures of Chairman Mao
 Bm                                  G  A  F#  E
-You ain't gonna make it with anyone any  how 
+You ain't gonna make it with anyone any  how
 
-                          A     D           
+                          A     D
 Don't you know it's gonna be, alright 3x
   A
 Alright

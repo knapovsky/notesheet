@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: p!nk_-_dear_mr_president_(ver_4)_-_chords
+tags:
+- Notesheet
+- Chords
+title: P!nk - Dear Mr President (ver 4)
+---
+
 ```
 Capo: fret 3
 
@@ -9,7 +21,7 @@ G  D  Em  D
 
 [Verse 1]
 
-G                    D                          Em     D  
+G                    D                          Em     D
    Dear Mr President, come take a walk with me
                G                          D
 Let's pretend,  we're just two people and,  you're not better than me,
@@ -116,7 +128,7 @@ How do you sleep at night?
 Em       G       Am        C         G
 How do you walk, with your head held high
 
-G                   D                                 Em     D 
+G                   D                                 Em     D
   Dear Mr President  you'd never take a walk with me
 
 ummm, would you.

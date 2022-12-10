@@ -1,11 +1,23 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: nirvana_-_lithium_-_chords
+tags:
+- Notesheet
+- Chords
+title: Nirvana - Lithium
+---
+
 ```
-Nirvana 
-Lithium 
+Nirvana
+Lithium
 Nevermind
 
 Here are the chords to lithium you have to figure out the rythem.
 
-Em   G#    C#5  A  C5  D5 B5 
+Em   G#    C#5  A  C5  D5 B5
 0    6     6    7  5   7  4
 0    6     6    7  5   7  4
 0    6     6    7  5   7  4
@@ -24,15 +36,15 @@ Em  G#  C#5 A C5 D5 B5 D5
 Em  G#    C#5     A       C5     D5       B5        D5        Em
     Im so happy because today i found my friends they're in my head.
     G#    C#5     A       C5     D5       B5        D5        Em
-    Im so ugly that's okay because so are you we broke our mirrors. 
+    Im so ugly that's okay because so are you we broke our mirrors.
     G#    C#5     A       C5     D5       B5        D5        Em
     Sunday morning is everyday for all i care and i'm not scared.
     G#    C#5     A       C5     D5       B5        D5        Em
-    Light my candles in a daze because i've found God.  
+    Light my candles in a daze because i've found God.
 
 
 [Pre-Chorus]
-    
+
     G#    C#5     A       C5     D5       B5        D5        Em
     Yea.................................. Yea.....................
     G#    C#5     A       C5     D5       B5        D5        Em
@@ -49,11 +61,11 @@ Em  G#    C#5     A       C5     D5       B5        D5        Em
     G#    C#5     A       C5     D5       B5        D5        Em
     I'm so excited I can't wait to meet you there I don't care.
     G#    C#5     A       C5     D5       B5        D5        Em
-    I'm so horny thats okay my will is good. 
+    I'm so horny thats okay my will is good.
 
 
-[Pre-Chorus]    
-    
+[Pre-Chorus]
+
     G#    C#5     A       C5     D5       B5        D5        Em
     Yea.................................. Yea.....................
     G#    C#5     A       C5     D5       B5        D5        Em
@@ -64,38 +76,38 @@ Em  G#    C#5     A       C5     D5       B5        D5        Em
 
 [Chorus]
 
-    A           C5     
-    I like it I'm not gonna crack      
-    A           C5     
+    A           C5
+    I like it I'm not gonna crack
+    A           C5
     I miss you I'm not gonna crack
-    A           C5     
-    I love you I'm not gonna crack 
-    A           C5     
+    A           C5
+    I love you I'm not gonna crack
+    A           C5
     I killed you I'm not gonna crack
 
-    A           C5     
-    I like it I'm not gonna crack      
-    A           C5     
+    A           C5
+    I like it I'm not gonna crack
+    A           C5
     I miss you I'm not gonna crack
-    A           C5     
-    I love you I'm not gonna crack 
+    A           C5
+    I love you I'm not gonna crack
     A           C5              D5   B5
     I killed you I'm not gonna crack
- 
+
 [Verse]
 
 Em  G#    C#5     A       C5     D5       B5        D5        Em
     Im so happy because today i found my friends they're in my head.
     G#    C#5     A       C5     D5       B5        D5        Em
-    Im so ugly that's okay because so are you we broke our mirrors. 
+    Im so ugly that's okay because so are you we broke our mirrors.
     G#    C#5     A       C5     D5       B5        D5        Em
     Sunday morning is everyday for all i care and i'm not scared.
     G#    C#5     A       C5     D5       B5        D5        Em
-    Light my candles in a daze because i've found God.  
+    Light my candles in a daze because i've found God.
 
 
 [Pre-Chorus]
-    
+
     G#    C#5     A       C5     D5       B5        D5        Em
     Yea.................................. Yea.....................
     G#    C#5     A       C5     D5       B5        D5        Em
@@ -105,21 +117,21 @@ Em  G#    C#5     A       C5     D5       B5        D5        Em
 
 [Chorus]
 
-    A           C5     
-    I like it I'm not gonna crack      
-    A           C5     
+    A           C5
+    I like it I'm not gonna crack
+    A           C5
     I miss you I'm not gonna crack
-    A           C5     
-    I love you I'm not gonna crack 
-    A           C5     
+    A           C5
+    I love you I'm not gonna crack
+    A           C5
     I killed you I'm not gonna crack
 
-    A           C5     
-    I like it I'm not gonna crack      
-    A           C5     
+    A           C5
+    I like it I'm not gonna crack
+    A           C5
     I miss you I'm not gonna crack
-    A           C5     
-    I love you I'm not gonna crack 
+    A           C5
+    I love you I'm not gonna crack
     A           C5              D5  B5
     I killed you I'm not gonna crack
 

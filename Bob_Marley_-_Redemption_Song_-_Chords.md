@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: bob_marley_-_redemption_song_-_chords
+tags:
+- Notesheet
+- Chords
+title: Bob Marley - Redemption Song
+---
+
 ```
 Artist: Bob Marley
 Song: Redemption Song (acoustic)
@@ -50,17 +62,17 @@ G                         Em  C                   D7
   Minutes after they took I   from the bottomless pit.
        G           Em
 But my hand was made strong
-C      C/B         Am   
+C      C/B         Am
 By the hand of the Almighty.
-    G              Em         C        D7 
+    G              Em         C        D7
 We forward in this generation triumphantly.
 
 [Chorus]
 D7                G    C       D        G
 Won't you help to sing    these songs of freedom?
-      C     D        Em   C  D       G      C 
+      C     D        Em   C  D       G      C
 Cause all I ever had,      redemption songs,
-  D       G      C D  
+  D       G      C D
 Redemption songs.
 
 [Break]
@@ -75,7 +87,7 @@ G                        Em
 Have no fear for atomic energy,
               C                   D7
 Cause none of them can stop the time.
-    G                        Em 
+    G                        Em
 How long shall they kill our prophets
          C      C/B         Am
 While we stand aside and look?
@@ -87,7 +99,7 @@ We've got to fulfill the book.
 [Chorus]
 D7                G    C       D        G
 Won't you help to sing    these songs of freedom?
-      C     D        Em   C  D       G      C 
+      C     D        Em   C  D       G      C
 Cause all I ever had,      redemption songs,
   D       G      C  D       G      C D
 Redemption songs, redemption songs.
@@ -99,7 +111,7 @@ Em2   C2 D2  x4
 Note II:
 If you have any corrections or improvements to the tab write
 them on the comments section, or send me a message,
-or e-mail, so we can together make this tab even better.  
+or e-mail, so we can together make this tab even better.
 
 SCA, kostya.levin.sca@gmail.com
 ```

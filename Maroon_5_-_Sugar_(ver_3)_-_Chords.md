@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: maroon_5_-_sugar_(ver_3)_-_chords
+tags:
+- Notesheet
+- Chords
+title: Maroon 5 - Sugar (ver 3)
+---
+
 ```
 [Intro]
 
@@ -8,7 +20,7 @@ C Am G C
 
 F                        Am
 I'm hurting baby, I'm broken down
-Dm                              
+Dm
 I need your loving, loving
 C
 I need it now

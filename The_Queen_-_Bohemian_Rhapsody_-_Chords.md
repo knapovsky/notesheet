@@ -1,3 +1,15 @@
+---
+date: 2022-12-10 03:18:48.631729
+dateCreated: 2022-12-10 03:18:48.631729
+description: Notesheet
+editor: markdown
+slug: the_queen_-_bohemian_rhapsody_-_chords
+tags:
+- Notesheet
+- Chords
+title: The Queen - Bohemian Rhapsody
+---
+
 ```
 [Intro]
 (slowly)
@@ -67,7 +79,7 @@ Ab  Eb/G  F#dim  Fm7
 
 B    Bb    A    Bb  B        Bb     A    Bb    Eb    Bb
 Easy come, easy go, will you let me go?  Bis - mil - lah!
-Eb  Bb      Eb/Bb  Bb7   Eb/Bb Bb    Eb           
+Eb  Bb      Eb/Bb  Bb7   Eb/Bb Bb    Eb
 No, we will not    let   you   go. - Let him go!  Bismillah!
 
 We will not let you go. - Let him go!  Bismillah!  We will not let you go. - Let me go.
