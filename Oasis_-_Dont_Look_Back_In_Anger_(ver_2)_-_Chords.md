@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: oasis_-_dont_look_back_in_anger_(ver_2)_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Oasis - Dont Look Back In Anger (ver 2)
 ---
 

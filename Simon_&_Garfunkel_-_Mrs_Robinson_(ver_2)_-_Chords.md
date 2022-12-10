@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: simon_&_garfunkel_-_mrs_robinson_(ver_2)_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Simon & Garfunkel - Mrs Robinson (ver 2)
 ---
 

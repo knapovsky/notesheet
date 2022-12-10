@@ -5,7 +5,7 @@ description: Notesheet
 editor: markdown
 published: 1
 slug: readme
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: README
 ---
 

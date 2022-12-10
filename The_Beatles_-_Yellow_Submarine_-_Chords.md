@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_beatles_-_yellow_submarine_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: The Beatles - Yellow Submarine
 ---
 

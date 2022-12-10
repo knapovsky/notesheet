@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: eric_clapton_-_tears_in_heaven_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Eric Clapton - Tears In Heaven
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: jana_kirschner_-_bude_mi_lehka_zem_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Jana Kirschner - Bude mi lehka zem
 ---
 

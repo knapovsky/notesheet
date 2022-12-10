@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: elvis_presley_-_hound_dog_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Elvis Presley - Hound Dog
 ---
 

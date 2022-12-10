@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: bsp_-_zeme_vzdalena_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: BSP - Zeme Vzdalena
 ---
 

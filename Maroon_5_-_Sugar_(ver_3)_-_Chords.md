@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: maroon_5_-_sugar_(ver_3)_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Maroon 5 - Sugar (ver 3)
 ---
 

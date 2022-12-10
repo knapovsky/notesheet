@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: john_lennon_-_working_class_hero_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: John Lennon - Working Class Hero
 ---
 

@@ -5,7 +5,7 @@ description: Notesheet
 editor: markdown
 published: true
 slug: jimi_hendrix_-_little_wing
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Jimi Hendrix - Little Wing
 ---
 

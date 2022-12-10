@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: red_hot_chili_peppers_-_dani_california_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Red Hot Chili Peppers - Dani California
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_beatles_-_eight_days_a_week_(ver_4)_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: The Beatles - Eight Days A Week (ver 4)
 ---
 

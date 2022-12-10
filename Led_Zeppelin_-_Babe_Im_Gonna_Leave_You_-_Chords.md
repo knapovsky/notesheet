@@ -5,7 +5,7 @@ description: Notesheet
 editor: markdown
 published: true
 slug: led_zeppelin_-_babe_im_gonna_leave_you_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: Led Zeppelin - Babe Im Gonna Leave You
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_rolling_stones_-_angie_(ver_5)_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: The Rolling Stones - Angie (ver 5)
 ---
 

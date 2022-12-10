@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: the_cinematic_orchestra_-_to_build_a_home_-_chords
-tags: ["Notesheet", "Chords"]
+tags: Notesheet, Chords
 title: The Cinematic Orchestra - To Build A Home
 ---
 
