@@ -5,7 +5,7 @@ description: Notesheet
 editor: markdown
 published: 1
 slug: a_star_is_born_-_shallow
-tags: ['Notesheet', 'Chords']
+tags: Notesheet, Chords
 title: A Star is Born - Shallow
 ---
 
