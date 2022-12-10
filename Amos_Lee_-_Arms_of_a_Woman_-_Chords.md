@@ -1,4 +1,14 @@
 ---
+title: Amos_Lee_-_Arms_of_a_Woman_-_Chords
+description: 
+published: 1
+date: 2022-12-10T01:16:15.855Z
+tags: notesheet, chords
+editor: markdown
+dateCreated: 2022-12-09T11:02:38.688Z
+---
+
+---
 
 date: 2022-12-10 03:18:48.631729
 dateCreated: 2022-12-10 03:18:48.631729
