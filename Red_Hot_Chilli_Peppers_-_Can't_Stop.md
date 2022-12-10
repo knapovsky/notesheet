@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: red_hot_chilli_peppers_-_can't_stop
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Red Hot Chilli Peppers - Can't Stop
 ---
 

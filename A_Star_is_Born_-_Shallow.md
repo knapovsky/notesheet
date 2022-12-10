@@ -4,8 +4,8 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 published: 1
-slug: a star is born - shallow
-tags: Notesheet,Chords
+slug: a_star_is_born_-_shallow
+tags: ['Notesheet', 'Chords']
 title: A Star is Born - Shallow
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: bob_marley_-_stir_it_up_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Bob Marley - Stir It Up
 ---
 

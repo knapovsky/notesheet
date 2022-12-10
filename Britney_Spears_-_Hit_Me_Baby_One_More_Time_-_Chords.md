@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: britney_spears_-_hit_me_baby_one_more_time_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Britney Spears - Hit Me Baby One More Time
 ---
 

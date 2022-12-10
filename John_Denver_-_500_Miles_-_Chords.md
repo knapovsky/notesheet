@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: john_denver_-_500_miles_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: John Denver - 500 Miles
 ---
 

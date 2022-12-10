@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: oasis_-_wonderwall_(ver_4)_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Oasis - Wonderwall (ver 4)
 ---
 

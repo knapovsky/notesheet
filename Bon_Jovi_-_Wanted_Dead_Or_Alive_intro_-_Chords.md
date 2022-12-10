@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: bon_jovi_-_wanted_dead_or_alive_intro_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Bon Jovi - Wanted Dead Or Alive intro
 ---
 

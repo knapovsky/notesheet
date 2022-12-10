@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: bill_withers_-_ain't_no_sunshine_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Bill Withers - Ain't no Sunshine
 ---
 

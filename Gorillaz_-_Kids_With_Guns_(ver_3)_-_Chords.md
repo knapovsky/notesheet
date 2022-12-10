@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: gorillaz_-_kids_with_guns_(ver_3)_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Gorillaz - Kids With Guns (ver 3)
 ---
 

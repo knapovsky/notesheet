@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: elvis_presley_-_a_little_less_conversation_(ver_2)_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Elvis Presley - A Little Less Conversation (ver 2)
 ---
 

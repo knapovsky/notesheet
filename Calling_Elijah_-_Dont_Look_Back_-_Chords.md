@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: calling_elijah_-_dont_look_back_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Calling Elijah - Dont Look Back
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: fool's_garden_-_lemon_tree_(ver_3)_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Fool's Garden - Lemon Tree (ver 3)
 ---
 

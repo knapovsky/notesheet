@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: daniela_andrade_-_creep_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Daniela Andrade - Creep
 ---
 

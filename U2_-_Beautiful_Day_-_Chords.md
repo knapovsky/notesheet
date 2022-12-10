@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: u2_-_beautiful_day_-_chords
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: U2 - Beautiful Day
 ---
 

@@ -4,7 +4,7 @@ dateCreated: 2022-12-10 03:18:48.631729
 description: Notesheet
 editor: markdown
 slug: tom_jobim_-_aguas_de_marco
-tags: Notesheet,Chords
+tags: ["Notesheet", "Chords"]
 title: Tom Jobim - Aguas de Marco
 ---
 
