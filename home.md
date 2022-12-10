@@ -9,6 +9,4 @@ tags: Notesheet,Chords
 title: README
 ---
 
-# README
-
-Home
+![Logo](https://raw.githubusercontent.com/knapovsky/mind/main/assets/logo-flower.svg?token=GHSAT0AAAAAAB26WY2FJCQAIEIACNGLM7TKY4T3SCA)
